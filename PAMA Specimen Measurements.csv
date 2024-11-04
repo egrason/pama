@@ -1,0 +1,746 @@
+PAMAID,WaterBody,Site,CollectionDate,Month,Year,EffortType,Species,Sex,Gravid,EggsEyes,Curvy,CL,GVTL,TL,FileNames,Disposed,DateDissected,Notes
+PAMAID.002,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,NA,No,11.043,38.009,NA,PAMAID.002,Y,2/3/23,"Photographed dry (petri dish), not fully extended. No TL rostrum missing"
+PAMAID.003,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,No,NA,No,10.656,40.402,49.346,PAMAID.003,Y,2/3/23,
+PAMAID.004,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,NA,No,11.814,43.525,54.742,PAMAID.004,Y,2/3/23,
+PAMAID.005,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,Yes,No,7.919,29.675,37.995,PAMAID.005,Y,2/3/23,Developed eggs; eye spots visible (Misc.Image in file)
+PAMAID.006,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,NA,No,9.751,38.08,47.772,PAMAID.006,Y,2/7/23,
+PAMAID.007,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,NA,No,7.498,29.171,36.945,PAMAID.007,Y,2/7/23,
+PAMAID.008,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,NA,No,8.568,32.268,40.436,PAMAID.008,Y,2/7/23,
+PAMAID.009,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,NA,Yes,10.155,40.244,49.492,PAMAID.009,Y,2/8/23,
+PAMAID.010,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,Yes,Yes,6.723,26.574,33.501,PAMAID.010,Y,2/8/23,"developed eggs;eye spots visible. missing One second periopod chelae, other was loose hanging"
+PAMAID.011,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,No,No,6.564,26.448,33.231,PAMAID.011,Y,2/8/23,"No eye spots on larvae, further dev than sphere eggs"
+PAMAID.012,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,No,No,7.136,27.893,35.397,PAMAID.012,Y,2/8/23,"No eye spots on larvae, further dev than sphere eggs. Missing second peri chelae"
+PAMAID.013,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,No,NA,No,5.93,23.058,28.506,PAMAID.013,Y,2/8/23,Missing one second peri chelae
+PAMAID.014,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,Yes,No,6.989,27.221,34.343,PAMAID.014,Y,2/8/23,babes with eyes
+PAMAID.015,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,No,No,6.375,25.368,NA,PAMAID.015,Y,2/14/23,"VERY soft carpace, rostrum broken end, little shape/ integrity hard to stage. No TL rostrum missing "
+PAMAID.016,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Male,NA,NA,Yes,6.396,27.486,34.107,PAMAID.016,Y,2/14/23,"slight broken rost tip, FIRST male! for sure"
+PAMAID.017,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,No,No,6.459,25.683,NA,PAMAID.017,Y,2/14/23,Missing arms. No TL rostrum chipped
+PAMAID.018,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,No,NA,No,5.541,21.841,27.065,PAMAID.018,Y,2/14/23,
+PAMAID.019,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,No,NA,No,4.917,21.477,26.569,PAMAID.019,Y,2/15/23,"V soft carapace/soggy, not staged well, measure questionable"
+PAMAID.020,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Male,NA,NA,No,4.165,18.209,22.729,PAMAID.020,Y,2/15/23,Teenytiny
+PAMAID.021,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,Yes,No,No,6.397,24.122,29.876,PAMAID.021,Y,2/15/23,Very early egg mass-size
+PAMAID.022,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Male,NA,NA,Maybe,5.457,24.965,31.615,PAMAID.022,Y,2/15/23,loose midsect
+PAMAID.023,Lummi Bay,LSP,9/10/20,9,2020,Opportunistic,PAMA,Female,No,NA,Yes,4.635,19.526,24.378,PAMAID.023,Y,2/15/23,
+PAMAID.024,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,9.826,38.538,47.253,PAMAID.024,Y,2/15/23,
+PAMAID.025,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,7.287,31.022,39.758,PAMAID.025,Y,2/15/23,
+PAMAID.026,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.399,28.503,35.631,PAMAID.026,Y,2/15/23,
+PAMAID.027,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.649,30.387,39.001,PAMAID.027,Y,2/17/23,
+PAMAID.028,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.561,29.592,37.007,PAMAID.028,Y,2/17/23,
+PAMAID.029,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,7.189,32.731,41.213,PAMAID.029,Y,2/17/23,
+PAMAID.030,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.218,19.218,23.686,PAMAID.030,Y,2/17/23,
+PAMAID.031,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.811,29.584,37.074,PAMAID.031,Y,2/17/23,
+PAMAID.032,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,7.24,26.872,32.498,PAMAID.032,Y,2/17/23,
+PAMAID.033,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.709,29.952,37.425,PAMAID.033,Y,2/17/23,
+PAMAID.034,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.535,29.324,36.434,PAMAID.034,Y,2/17/23,
+PAMAID.035,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,Maybe,10.451,41.3,50.959,PAMAID.035,Y,2/17/23,
+PAMAID.036,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,6.534,28.848,36.474,PAMAID.036,Y,2/17/23,
+PAMAID.037,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.921,30.019,38.445,PAMAID.037,Y,2/17/23,
+PAMAID.038,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,6.731,30.996,38.111,PAMAID.038,Y,2/17/23,
+PAMAID.039,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,5.968,26.95,33.645,PAMAID.039,Y,2/17/23,
+PAMAID.040,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.652,30.011,37.549,PAMAID.040,Y,2/17/23,
+PAMAID.041,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.787,29.09,36.661,PAMAID.041,Y,2/17/23,
+PAMAID.042,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,7.208,31.593,39.646,PAMAID.042,Y,2/17/23,
+PAMAID.043,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,Maybe,11.696,45.321,56.498,PAMAID.043,Y,2/17/23,
+PAMAID.044,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,6.469,29.102,36.56,PAMAID.044,Y,2/17/23,
+PAMAID.045,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,6.378,28.889,NA,PAMAID.045,Y,2/17/23,No TL rostrum tip chipped
+PAMAID.046,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.633,29.6,NA,PAMAID.046,Y,2/22/23,No TL rostrum tip chipped
+PAMAID.047,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,6.024,27.62,34.505,PAMAID.047,Y,2/22/23,
+PAMAID.048,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,6.512,29.72,36.836,PAMAID.048,Y,2/22/23,
+PAMAID.049,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.058,27.274,33.978,PAMAID.049,Y,2/22/23,
+PAMAID.050,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.607,28.568,35.575,PAMAID.050,Y,2/22/23,
+PAMAID.051,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,Yes,6.176,23.929,29.522,PAMAID.051,Y,2/22/23,
+PAMAID.052,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.1,19.815,24.194,PAMAID.052,Y,2/22/23,
+PAMAID.053,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.711,30.097,37.738,PAMAID.053,Y,2/22/23,
+PAMAID.054,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,7.123,31.948,39.775,PAMAID.054,Y,2/22/23,
+PAMAID.055,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.542,29.106,36.83,PAMAID.055,Y,2/22/23,
+PAMAID.056,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.042,27.894,34.567,PAMAID.056,Y,2/22/23,
+PAMAID.057,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.473,29.997,37.126,PAMAID.057,Y,2/22/23,
+PAMAID.058,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,6.581,25.82,31.656,PAMAID.058,Y,2/22/23,
+PAMAID.059,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,7.218,31.185,39.539,PAMAID.059,Y,2/22/23,
+PAMAID.060,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,7.086,31.039,38.895,PAMAID.060,Y,2/22/23,
+PAMAID.061,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,6.645,30.176,37.605,PAMAID.061,Y,2/22/23,
+PAMAID.062,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,Yes,5.198,20.985,26.269,PAMAID.062,Y,2/22/23,
+PAMAID.063,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.954,32.105,38.905,PAMAID.063,Y,2/23/23,
+PAMAID.064,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,7.042,31.102,38.893,PAMAID.064,Y,2/23/23,
+PAMAID.065,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,Maybe,10.484,42.412,51.984,PAMAID.065,Y,2/23/23,
+PAMAID.066,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,7.037,31.876,40.713,PAMAID.066,Y,2/23/23,
+PAMAID.067,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.122,28.309,35.08,PAMAID.067,Y,2/23/23,
+PAMAID.068,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,No,No,Yes,10.739,41.152,52.059,PAMAID.068,Y,2/23/23,"Big female, but no egg mass"
+PAMAID.069,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Maybe,6.418,28.709,36.053,PAMAID.069,Y,2/23/23,
+PAMAID.070,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.533,29.749,36.778,PAMAID.070,Y,2/23/23,
+PAMAID.071,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,7.215,32.297,40.981,PAMAID.071,Y,2/23/23,
+PAMAID.072,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,No,8.631,33.639,41.157,PAMAID.072,Y,2/23/23,
+PAMAID.073,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.435,29.861,36.675,PAMAID.073,Y,2/23/23,
+PAMAID.074,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,4.066,18.618,22.848,PAMAID.074,Y,2/23/23,*very blurry img for measure
+PAMAID.075,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,7.547,30.087,37.442,PAMAID.075,Y,2/28/23,
+PAMAID.076,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,Yes,8.269,32.099,39.619,PAMAID.076,Y,2/28/23,
+PAMAID.077,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,6.858,27.667,34.54,PAMAID.077,Y,2/28/23,
+PAMAID.078,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,5.469,21.171,26.613,PAMAID.078,Y,2/28/23,
+PAMAID.079,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,11.444,44.517,54.492,PAMAID.079,Y,2/28/23,
+PAMAID.080,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.883,22.068,27.684,PAMAID.080,Y,2/28/23,
+PAMAID.081,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,7.608,29.502,37.235,PAMAID.081,Y,6/19/23,
+PAMAID.082,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,6.054,23.6,29.762,PAMAID.082,Y,6/19/23,
+PAMAID.083,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,No,6.591,26.238,32.835,PAMAID.083,Y,6/19/23,
+PAMAID.084,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,11.608,46.047,55.916,PAMAID.084,Y,6/19/23,"Very large female,thick yellow eggs w/o eyes"
+PAMAID.085,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,6.717,26.376,33.211,PAMAID.085,Y,6/19/23,
+PAMAID.086,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,No,7.452,29.691,37.119,PAMAID.086,Y,6/19/23,
+PAMAID.087,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,No,12.028,45.677,57.806,PAMAID.087,Y,6/19/23,
+PAMAID.088,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,13.23,48.407,61.672,PAMAID.088,Y,6/19/23,
+PAMAID.089,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,7.339,29.349,36.97,PAMAID.089,Y,6/19/23,
+PAMAID.090,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,11.512,44.241,55.334,PAMAID.090,Y,6/19/23,
+PAMAID.091,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,8.245,31.689,39.613,PAMAID.091,Y,6/19/23,
+PAMAID.092,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,7.789,30.4,37.577,PAMAID.092,Y,6/19/23,
+PAMAID.093,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,6.872,27.52,34.196,PAMAID.093,Y,6/19/23,
+PAMAID.095,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,10.182,41.547,51.764,PAMAID.095,Y,6/19/23,
+PAMAID.096,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,No,10.878,43.54,54.899,PAMAID.096,Y,6/19/23,
+PAMAID.097,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,7.351,28.846,36.237,PAMAID.097,Y,6/19/23,
+PAMAID.098,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,6.468,26.386,32.88,PAMAID.098,Y,6/19/23,
+PAMAID.099,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,7.606,NA,NA,PAMAID.099,Y,6/19/23,Missing tail/body (some abdomen segments/telson)
+PAMAID.100,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,6.329,24.788,30.56,PAMAID.100,Y,6/19/23,
+PAMAID.101,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,6.335,23.143,29.24,PAMAID.101,Y,6/19/23,
+PAMAID.102,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.857,23.748,29.585,PAMAID.102,Y,6/19/23,
+PAMAID.103,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.362,19.937,24.796,PAMAID.103,Y,6/19/23,
+PAMAID.104,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,No,7.888,31.898,38.388,PAMAID.104,Y,8/22/23,Missing many periopods (4) and partial damage of others 
+PAMAID.105,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,6.712,25.59,32.176,PAMAID.105,Y,8/22/23,Missing periopods
+PAMAID.106,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,6.283,25.24,31.612,PAMAID.106,Y,8/22/23,
+PAMAID.107,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,7.012,NA,NA,PAMAID.107,Y,8/22/23,Missing tail end: no telson/uropods
+PAMAID.108,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,4.861,20.699,25.682,PAMAID.108,Y,8/22/23,
+PAMAID.109,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,7.288,27.94,34.603,PAMAID.109,Y,8/22/23,
+PAMAID.110,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,5.709,22.972,28.77,PAMAID.110,Y,8/22/23,
+PAMAID.111,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,6.604,26.245,32.346,PAMAID.111,Y,8/22/23,
+PAMAID.112,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,3.63,16.566,20.366,PAMAID.112,Y,8/22/23,Very tiny
+PAMAID.113,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,2.904,12.817,15.741,PAMAID.113,Y,8/22/23,Very tiny
+PAMAID.116,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.222,18.383,22.048,PAMAID.116,Y,8/23/23,
+PAMAID.117,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,4.165,17.045,20.842,PAMAID.117,Y,8/23/23,
+PAMAID.118,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.199,19.384,24.26,PAMAID.118,Y,8/23/23,"*very tiny, fuzzy measure points"
+PAMAID.119,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,3.438,15.727,19.429,PAMAID.119,Y,8/23/23,"*super tiny, fuzzy measure points"
+PAMAID.120,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No ,NA,No,4.15,17.565,21.743,PAMAID.120,Y,8/23/23,
+PAMAID.121,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.286,18.786,22.826,PAMAID.121,Y,8/23/23,
+PAMAID.122,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.083,18.129,22.51,PAMAID.122,Y,8/23/23,
+PAMAID.123,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.006,17.311,21.977,PAMAID.123,Y,8/23/23,
+PAMAID.124,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.508,20.915,NA,PAMAID.124,Y,8/23/23,Missing Rostrum tip
+PAMAID.125,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.383,NA,NA,PAMAID.125,Y,8/23/23,"1/2 of Telson missing, end of rostrum missing"
+PAMAID.126,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,4.238,18.321,NA,PAMAID.126,Y,8/23/23,Missing Rostrum tip
+PAMAID.127,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,6.518,24.496,30.622,PAMAID.127,Y,8/23/23,
+PAMAID.128,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,3.607,17.133,NA,PAMAID.128,Y,8/23/23,Missing Rostrum tip
+PAMAID.129,Bellingham Bay,362,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,3.927,17.711,21.793,PAMAID.129,Y,8/23/23,
+PAMAID.132,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,11.405,NA,NA,PAMAID.132,Y,8/23/23,"Missing rostrum tip, missing telson tip"
+PAMAID.133,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,11.347,NA,NA,PAMAID.133,Y,8/23/23,"Missing rostrum tip, Missing telson tip"
+PAMAID.134,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,No,6.393,NA,NA,PAMAID.134,Y,8/23/23,"Missing rostrum tip, Missing telson tip"
+PAMAID.135,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.543,29.231,NA,PAMAID.135,Y,8/23/23,Missing rostrum tip
+PAMAID.136,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.263,28.917,NA,PAMAID.136,Y,8/23/23,Missing rostrum tip
+PAMAID.137,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.536,NA,NA,PAMAID.137,Y,8/23/23,Missing rostrum tip and tail 
+PAMAID.138,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.843,NA,NA,PAMAID.138,Y,8/23/23,Missing tail (telson)
+PAMAID.139,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,5.744,NA,NA,PAMAID.139,Y,8/23/23,Missing rostrum tip
+PAMAID.140,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,5.804,NA,NA,PAMAID.140,Y,8/23/23,"Missing tail, missing rostrum tip"
+PAMAID.141,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,2.984,13.124,NA,PAMAID.141,Y,8/23/23,Missing rostrum tip *INCREDIBLY TINY Measures Fuzzy
+PAMAID.142,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.363,NA,NA,PAMAID.142,Y,8/23/23,Missing tail
+PAMAID.143,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,3.888,NA,NA,PAMAID.143,Y,8/23/23,Missing tail
+PAMAID.144,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,5.532,25.484,NA,PAMAID.144,Y,8/23/23,Missing rostrum tip
+PAMAID.145,Port Susan Bay,599,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.786,30.871,38.473,PAMAID.145,Y,8/24/23,
+PAMAID.146,Port Susan Bay,599,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,No,No,8.171,30.875,38.896,PAMAID.146,Y,8/24/23,
+PAMAID.147,Port Susan Bay,599,9/16/20,9,2020,Synoptic,PAMA,Female,No,NA,No,5.599,23.09,28.342,PAMAID.147,Y,8/24/23,
+PAMAID.148,Drayton,,8/21/20,8,2020,Opportunistic,PAMA,Female,Yes,No,No,10.951,42.237,51.708,PAMAID.148,Y,8/25/23,
+PAMAID.149,Drayton,,8/21/20,8,2020,Opportunistic,PAMA,Female,Yes,Yes,Maybe,10.194,39.469,48.425,PAMAID.149,Y,8/25/23,
+PAMAID.150,Drayton,,8/21/20,8,2020,Opportunistic,PAMA,Female,Yes,Yes,No,9.623,37.837,45.872,PAMAID.150,Y,8/25/23,
+PAMAID.151,Drayton,,8/21/20,8,2020,Opportunistic,PAMA,Female,Yes,No,No,8.834,34.686,42.429,PAMAID.151,Y,8/25/23,
+PAMAID.152,Drayton,,8/21/20,8,2020,Opportunistic,PAMA,Female,Yes,No,Maybe,9.949,38.914,48.017,PAMAID.152,Y,8/25/23,
+PAMAID.153,Drayton,,8/21/20,8,2020,Opportunistic,PAMA,Female,Yes,No,No,10.081,39.981,48.518,PAMAID.153,Y,8/25/23,
+PAMAID.154,Drayton,Dakota Creek,9/2/20,9,2020,Opportunistic,PAMA,Female,Yes,Yes,Maybe,11.601,47.147,59.225,PAMAID.154,Y,8/25/23,
+PAMAID.155,Drayton,Dakota Creek,9/2/20,9,2020,Opportunistic,PAMA,Female,Yes,No,No,12.786,47.577,60.21,PAMAID.155,Y,8/25/23,
+PAMAID.156,Drayton,Dakota Creek,9/2/20,9,2020,Opportunistic,PAMA,Female,Yes,No,No,11.909,48.13,58.503,PAMAID.156,Y,8/25/23,
+PAMAID.157,Drayton,Dakota Creek,9/2/20,9,2020,Opportunistic,PAMA,Female,Yes,No,No,11.425,43.954,NA,PAMAID.157,Y,8/25/23,Missing rostrum tip
+PAMAID.158,Drayton,California Creek,9/2/20,9,2020,Opportunistic,PAMA,Female,Yes,No,Maybe,11.11,42.209,51.249,PAMAID.158,Y,8/25/23,
+PAMAID.159,Drayton,California Creek,4/13/21,4,2021,Opportunistic,PAMA,Female,No,NA,Maybe,7.628,30.187,36.454,PAMAID.159,Y,8/25/23,
+PAMAID.160,Drayton,California Creek,4/13/21,4,2021,Opportunistic,PAMA,Female,No,NA,No,9.083,35.403,43.421,PAMAID.160,Y,8/25/23,
+PAMAID.161,Drayton,California Creek,4/13/21,4,2021,Opportunistic,PAMA,Female,No,NA,No,8.051,33.036,40.48,PAMAID.161,Y,8/25/23,
+PAMAID.162,Drayton,California Creek,4/13/21,4,2021,Opportunistic,PAMA,Female,No,NA,No,8.187,33.134,40.97,PAMAID.162,Y,8/25/23,
+PAMAID.163,Drayton,California Creek,4/13/21,4,2021,Opportunistic,PAMA,Male,NA,NA,No,6.546,32.232,40.112,PAMAID.163,Y,8/25/23,
+PAMAID.164,Drayton,California Creek,4/13/21,4,2021,Opportunistic,PAMA,Female,No,NA,No,7.687,NA,NA,PAMAID.164,Y,8/25/23,tip of telson missing 
+PAMAID.165,Drayton,California Creek,4/13/21,4,2021,Opportunistic,PAMA,Female,No,NA,No,11.902,47.278,59.989,PAMAID.165,Y,8/25/23,
+PAMAID.166,Drayton,,April/May 2021,5.5,2021,Opportunistic,PAMA,Female,No,NA,No,7.876,31.821,40.435,PAMAID.166,Y,8/25/23,*measures odd; may be a stage issue
+PAMAID.167,Drayton,,April/May 2021,5.5,2021,Opportunistic,PAMA,Female,No,NA,No,7.861,29.93,36.542,PAMAID.167,Y,8/25/23,*very tippy tip of rostrum may be chipped?? obs while measuring
+PAMAID.168,Drayton,,April/May 2021,5.5,2021,Opportunistic,PAMA,Female,No,NA,No,7.111,26.987,33.551,PAMAID.168,Y,8/25/23,
+PAMAID.169,Drayton,,April/May 2021,5.5,2021,Opportunistic,PAMA,Female,No,NA,No,9.05,34.126,42.322,PAMAID.169,Y,8/25/23,
+PAMAID.170,Drayton,,April/May 2021,5.5,2021,Opportunistic,PAMA,Female,Yes,No,No,8.889,32.834,40.483,PAMAID.170,Y,8/25/23,
+PAMAID.171,Drayton,,April/May 2021,5.5,2021,Opportunistic,PAMA,Female,No,NA,Maybe,7.976,31.357,38.245,PAMAID.171,Y,8/25/23,
+PAMAID.172,Drayton,,April/May 2021,5.5,2021,Opportunistic,PAMA,Female,No,NA,No,7.006,30.092,36.728,PAMAID.172,Y,8/25/23,
+PAMAID.173,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,7.641,31.344,38.059,PAMAID.173,Y,8/25/23,
+PAMAID.174,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,Yes,No,8.958,35.451,43.638,PAMAID.174,Y,8/25/23,
+PAMAID.175,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,8.145,31.919,39.082,PAMAID.175,Y,8/25/23,
+PAMAID.176,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.711,37.685,46.305,PAMAID.176,Y,8/25/23,
+PAMAID.177,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.045,35.58,NA,PAMAID.177,Y,8/25/23,Missing tip of rostrum
+PAMAID.178,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,7.671,31.906,38.933,PAMAID.178,Y,8/25/23,
+PAMAID.179,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.047,37.456,45.584,PAMAID.179,Y,8/25/23,*staged very close to 90 deg angle
+PAMAID.180,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,No,NA,No,8.62,34.083,41.938,PAMAID.180,Y,8/25/23,
+PAMAID.181,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.581,38.201,47.2,PAMAID.181,Y,8/25/23,
+PAMAID.182,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,8.98,34.949,42.877,PAMAID.182,Y,9/12/23,
+PAMAID.183,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.72,38.439,47.216,PAMAID.183,Y,9/12/23,
+PAMAID.184,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,8.497,33.558,40.817,PAMAID.184,Y,9/12/23,
+PAMAID.185,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,7.627,30.888,38.706,PAMAID.185,Y,9/12/23,
+PAMAID.186,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.831,37.509,46.137,PAMAID.186,Y,9/12/23,
+PAMAID.187,Drayton,California Creek,6/1/22,6,2022,Opportunistic,PAMA,Female,Yes,Yes,No,8.305,NA,NA,PAMAID.187,Y,9/12/23,Missing tip of telson
+PAMAID.188,Drayton,Dakota Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,No,NA,No,7.833,30.275,37.463,PAMAID.188,Y,9/12/23,
+PAMAID.189,Drayton,Dakota Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,Yes,No,8.604,35.1,42.88,PAMAID.189,Y,9/12/23,
+PAMAID.190,Drayton,Dakota Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,No,NA,No,7.276,29.174,NA,PAMAID.190,Y,9/12/23,Missing tip of rostrum
+PAMAID.191,Drayton,Dakota Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,No,NA,No,8.709,34.436,NA,PAMAID.191,Y,9/12/23,Missing tip of rostrum
+PAMAID.192,Drayton,Dakota Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,No,NA,No,7.369,30.139,36.911,PAMAID.192,Y,9/12/23,
+PAMAID.193,Drayton,Dakota Creek,6/2/22,6,2022,Opportunistic,PAMA,Male,NA,NA,No,5.46,NA,NA,PAMAID.193,Y,9/12/23,"Missing tip of telson,damage to carapace and abdomen"
+PAMAID.194,Drayton,Dakota Creek,6/2/22,6,2022,Opportunistic,PAMA,Male,NA,NA,No,5.343,24.312,30.16,PAMAID.194,Y,9/12/23,
+PAMAID.195,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.317,35.542,43.63,PAMAID.195,Y,9/12/23,missing uropods (both); *5/1/24;based on photo may have blunted telson-not sure
+PAMAID.196,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,No,NA,No,9.269,NA,NA,PAMAID.196,Y,9/12/23,Missing telson
+PAMAID.197,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.074,35.948,44.431,PAMAID.197,Y,9/12/23,
+PAMAID.198,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,Yes,No,8.848,35.56,44.308,PAMAID.198,Y,9/12/23,
+PAMAID.199,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,9.013,35.781,43.835,PAMAID.199,Y,9/12/23,
+PAMAID.200,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,8.051,32.664,39.55,PAMAID.200,Y,9/12/23,
+PAMAID.201,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,7.454,30.307,36.348,PAMAID.201,Y,9/12/23,
+PAMAID.202,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,Yes,No,8.218,32.572,39.169,PAMAID.202,Y,9/12/23,
+PAMAID.203,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,10.111,38.933,47.617,PAMAID.203,Y,9/12/23,
+PAMAID.204,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,Yes,No,10.304,40.341,49.376,PAMAID.204,Y,9/12/23,
+PAMAID.205,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,7.441,29.506,35.557,PAMAID.205,Y,9/12/23,
+PAMAID.206,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,10.506,41.601,50.762,PAMAID.206,Y,9/12/23,
+PAMAID.207,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,Yes,No,8.446,33.166,41.075,PAMAID.207,Y,9/12/23,Few eggs under abdomen 
+PAMAID.208,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,Yes,No,No,8.694,35.31,NA,PAMAID.208,Y,9/12/23,broken rostrum
+PAMAID.209,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,No,NA,No,8.258,33.093,40.362,PAMAID.209,Y,9/12/23,
+PAMAID.210,Drayton,California Creek,6/2/22,6,2022,Opportunistic,PAMA,Female,No,NA,No,8.965,36.342,44.393,PAMAID.210,Y,9/12/23,
+PAMAID.211,Fidalgo Bay,South Fidalgo,8/23/22,8,2022,Opportunistic,PAMA,Female,Yes,No,No,7.901,29.952,37.389,PAMAID.211,Y,9/13/23,
+PAMAID.212,Fidalgo Bay,South Fidalgo,8/25/22,8,2022,Opportunistic,PAMA,Female,Yes,No,No,7.699,30.702,38.242,PAMAID.212,Y,9/13/23,"Note was in the bag for this batch of Fidalgo shrimp (8/25 bags): 'was accidentally removed from freezer,sat on the floor & thawed for unknown # of days'. This specimen- Crush/indent Damage to carapace"
+PAMAID.213,Fidalgo Bay,South Fidalgo,8/25/22,8,2022,Opportunistic,PAMA,Female,Yes,Yes,No,9.221,36.908,45.562,PAMAID.213,Y,9/13/23,
+PAMAID.214,Fidalgo Bay,South Fidalgo,8/25/22,8,2022,Opportunistic,PAMA,Male,NA,NA,No,7.394,32.586,39.952,PAMAID.214,Y,9/13/23,Soft/less bodily integrity
+PAMAID.215,Fidalgo Bay,South Fidalgo,8/25/22,8,2022,Opportunistic,PAMA,Female,No,NA,No,7.479,30.45,38.039,PAMAID.215,Y,9/13/23,Soft/less bodily integrity
+PAMAID.216,Fidalgo Bay,South Fidalgo,8/25/22,8,2022,Opportunistic,PAMA,Female,No,NA,No,6.103,26.164,NA,PAMAID.216,Y,9/13/23,"Detaching between carapace and abdomen, tip of rostrum broke, folding/crush damage to carapace"
+PAMAID.217,Fidalgo Bay,South Fidalgo,8/25/22,8,2022,Opportunistic,PAMA,Male,NA,NA,No,6.741,32.883,NA,PAMAID.217,Y,9/13/23,"Whole body squished flat, Broken rostrum, gut spillage from midsection"
+PAMAID.218,Fidalgo Bay,South Fidalgo,8/25/22,8,2022,Opportunistic,PAMA,Male,NA,NA,Yes,7.426,NA,NA,PAMAID.218,Y,9/13/23,"Whole body squished flat, gut spillage from dorsal abdomen segment"
+PAMAID.219,Samish Bay,Pigeon Point,5/3/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.981,34.306,42.2,PAMAID.219,Y,9/13/23,
+PAMAID.220,Samish Bay,Edison Slough,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.169,32.979,40.615,PAMAID.220,Y,9/13/23,
+PAMAID.221,Samish Bay,Edison Slough,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.563,37.755,45.863,PAMAID.221,Y,9/13/23,
+PAMAID.222,Samish Bay,Edison Slough,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.596,34.653,42.752,PAMAID.222,Y,9/13/23,
+PAMAID.223,Samish Bay,Edison Slough,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.422,39.193,47.928,PAMAID.223,Y,9/13/23,
+PAMAID.224,Samish Bay,Edison Slough,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.919,34.831,42.81,PAMAID.224,Y,9/13/23,
+PAMAID.225,Samish Bay,Edison Slough,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.756,34.359,42.681,PAMAID.225,Y,9/13/23,
+PAMAID.226,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.56,37.852,47.044,PAMAID.226,Y,9/13/23,
+PAMAID.227,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.108,35.199,43.189,PAMAID.227,Y,9/13/23,
+PAMAID.228,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.069,32.269,40.393,PAMAID.228,Y,9/13/23,
+PAMAID.229,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.283,31.897,39.022,PAMAID.229,Y,9/13/23,
+PAMAID.230,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.272,36.164,44.378,PAMAID.230,Y,9/13/23,
+PAMAID.231,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.522,37.285,46.171,PAMAID.231,Y,9/13/23,
+PAMAID.232,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.351,34.376,41.677,PAMAID.232,Y,9/13/23,
+PAMAID.233,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.25,35.194,NA,PAMAID.233,Y,9/13/23,missing very tip of rostrum
+PAMAID.234,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.792,34.058,42.095,PAMAID.234,Y,9/13/23,
+PAMAID.235,Samish Bay,Pigeon Point,5/4/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.653,38.384,47.829,PAMAID.235,Y,9/13/23,
+PAMAID.236,Samish Bay,Pigeon Point,5/5/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.621,32.836,40.064,PAMAID.236,Y,9/13/23,
+PAMAID.237,Samish Bay,Pigeon Point,5/5/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.617,33.995,41.545,PAMAID.237,Y,9/13/23,
+PAMAID.238,Samish Bay,Pigeon Point,5/5/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.073,39.132,47.627,PAMAID.238,Y,9/13/23,Carapace cracked
+PAMAID.239,Samish Bay,Pigeon Point,5/5/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.461,38.754,46.686,PAMAID.239,Y,9/13/23,Damage along left side abdomen segments and midsection
+PAMAID.240,Samish Bay,Pigeon Point,5/5/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.852,35.6,42.908,PAMAID.240,Y,9/13/23,
+PAMAID.241,Samish Bay,Pigeon Point,5/5/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.965,34.661,42.532,PAMAID.241,Y,9/13/23,
+PAMAID.242,Samish Bay,Pigeon Point,5/5/22,5,2022,Opportunistic,PAMA,Male,NA,NA,Yes,5.169,NA,NA,PAMAID.242,Y,9/13/23,"Missing half of tail,missing rostrum completely, best photo option was left side bc of damage "
+PAMAID.243,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.366,33.54,41.478,PAMAID.243,Y,9/13/23,
+PAMAID.244,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.41,36.289,43.745,PAMAID.244,Y,9/13/23,
+PAMAID.245,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.193,39.443,49.02,PAMAID.245,Y,9/13/23,
+PAMAID.246,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.705,37.102,NA,PAMAID.246,Y,9/13/23,Broken rostrum
+PAMAID.247,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.221,35.19,43.971,PAMAID.247,Y,9/14/23,
+PAMAID.248,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.857,39.455,49.564,PAMAID.248,Y,9/14/23,
+PAMAID.249,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.772,36.564,45.183,PAMAID.249,Y,9/14/23,
+PAMAID.250,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.059,36.248,44.83,PAMAID.250,Y,9/14/23,
+PAMAID.251,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.995,35.891,44.855,PAMAID.251,Y,9/14/23,
+PAMAID.252,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.247,35.887,44.364,PAMAID.252,Y,9/14/23,
+PAMAID.253,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.965,42.395,52.434,PAMAID.253,Y,9/14/23,*edge of carapce was really fuzzy when measuring; estimated best point
+PAMAID.254,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.664,39.835,48.892,PAMAID.254,Y,9/14/23,
+PAMAID.255,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.855,39.317,47.956,PAMAID.255,Y,9/14/23,
+PAMAID.256,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,10.01,39.407,47.893,PAMAID.256,Y,9/14/23,*pic a bit fuzzy when measuring 
+PAMAID.257,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.557,37.233,45.437,PAMAID.257,Y,9/14/23,*pic a bit fuzzy when measuring 
+PAMAID.258,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.282,37.019,45.774,PAMAID.258,Y,9/14/23,
+PAMAID.259,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.988,39.624,49.184,PAMAID.259,Y,9/14/23,
+PAMAID.260,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.724,38.264,47.419,PAMAID.260,Y,9/14/23,
+PAMAID.261,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.044,36.879,45.481,PAMAID.261,Y,9/14/23,
+PAMAID.262,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.091,36.643,45.098,PAMAID.262,Y,9/14/23,*back of orbital kind of hard to see when measure
+PAMAID.263,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.687,38.047,47.367,PAMAID.263,Y,9/14/23,*damage around carapace made points fuzzy
+PAMAID.264,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.697,31.896,39.15,PAMAID.264,Y,9/14/23,
+PAMAID.265,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.446,38.231,47.206,PAMAID.265,Y,9/14/23,
+PAMAID.266,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.989,30.662,38.068,PAMAID.266,Y,9/14/23,
+PAMAID.267,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,7.907,32.495,39.69,PAMAID.267,Y,9/14/23,
+PAMAID.268,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.54,36.43,45.088,PAMAID.268,Y,9/14/23,
+PAMAID.269,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.478,32.926,41.192,PAMAID.260,Y,9/14/23,
+PAMAID.270,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.662,30.246,37.292,PAMAID.270,Y,9/14/23,
+PAMAID.271,Samish Bay,Taylor,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.411,38.22,NA,PAMAID.271,Y,9/14/23,Broken Rostrum
+PAMAID.272,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.744,37.05,46.84,PAMAID.272,Y,9/14/23,
+PAMAID.273,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.909,33.918,41.499,PAMAID.273,Y,9/14/23,Has two chela of different sizes
+PAMAID.274,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.837,34.161,42.517,PAMAID.274,Y,9/14/23,
+PAMAID.275,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.34,33.176,41.483,PAMAID.275,Y,9/14/23,
+PAMAID.276,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,10.503,38.898,48.901,PAMAID.276,Y,9/14/23,
+PAMAID.277,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.899,35.261,43.623,PAMAID.277,Y,9/14/23,
+PAMAID.278,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Male,NA,NA,No,7.988,35.237,44.158,PAMAID.278,Y,9/14/23,"*staged at not ideal angle, carapace slightly off I think; still measured but may be a funky data point"
+PAMAID.279,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.196,36.35,44.31,PAMAID.279,Y,9/14/23,
+PAMAID.280,Samish Bay,Pigeon Point,5/17/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.116,35.388,NA,PAMAID.280,Y,9/14/23,Tip of Rostrum missing
+PAMAID.281,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.7,31.449,NA,PAMAID.281,Y,9/14/23,"*Tip of Rostrum looks chipped while looking back for measures, didn't measure"
+PAMAID.282,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.201,36.122,44.215,PAMAID.282,Y,9/14/23,
+PAMAID.283,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.948,37.101,45.662,PAMAID.283,Y,9/14/23,
+PAMAID.284,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.586,37.095,45.822,PAMAID.284,Y,9/14/23,
+PAMAID.285,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.579,37.453,NA,PAMAID.285,Y,9/14/23,Tip of Rostrum missing
+PAMAID.286,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.982,30.569,38.55,PAMAID.286,Y,9/14/23,
+PAMAID.287,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.23,30.39,37.563,PAMAID.287,Y,9/14/23,
+PAMAID.288,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.043,NA,NA,PAMAID.288,Y,9/14/23,Tip of Rostrum missing
+PAMAID.289,Samish Bay,Pigeon Point,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.914,36.5,44.602,PAMAID.289,Y,9/14/23,Has two chela of diff sizes (of the first pair)
+PAMAID.290,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.299,NA,NA,PAMAID.290,Y,9/15/23,Tip of Telson Missing 
+PAMAID.291,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.116,35.818,44.596,PAMAID.291,Y,9/15/23,
+PAMAID.292,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,11.951,47.474,58.676,PAMAID.292,Y,9/15/23,
+PAMAID.293,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.812,35.293,43.443,PAMAID.293,Y,9/15/23,
+PAMAID.294,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,10.058,40.284,49.011,PAMAID.294,Y,9/15/23,
+PAMAID.295,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA ,Female,No ,NA,No,8.364,33.533,41.23,PAMAID.295,Y,9/15/23,
+PAMAID.296,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.424,37.068,46.554,PAMAID.296,Y,9/15/23,
+PAMAID.297,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.284,37.274,46.077,PAMAID.297,Y,9/15/23,
+PAMAID.298,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.448,34.607,NA,PAMAID.298,Y,9/15/23,Tip of Rostrum Missing
+PAMAID.299,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.958,35.8,44.536,PAMAID.299,Y,9/15/23,Holding fewer eggs than usual (based on size)
+PAMAID.300,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.77,34.184,41.757,PAMAID.300,Y,9/15/23,
+PAMAID.301,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.135,37.123,46.596,PAMAID.301,Y,9/15/23,
+PAMAID.302,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.814,33.936,42.184,PAMAID.302,Y,9/15/23,
+PAMAID.303,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.395,36.362,45.06,PAMAID.303,Y,9/15/23,
+PAMAID.304,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.561,35.084,42.886,PAMAID.304,Y,9/15/23,
+PAMAID.305,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.722,37.465,46.604,PAMAID.305,Y,9/15/23,
+PAMAID.306,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.021,35.783,44.407,PAMAID.306,Y,9/15/23,
+PAMAID.307,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.885,38.684,47.715,PAMAID.307,Y,9/15/23,
+PAMAID.308,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.695,38.574,47.081,PAMAID.308,Y,9/15/23,
+PAMAID.309,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,10.087,39.88,49.341,PAMAID.309,Y,9/15/23,
+PAMAID.310,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.669,35.662,NA,PAMAID.310,Y,9/15/23,Tip of Rostrum Missing 
+PAMAID.311,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.762,35.18,42.71,PAMAID.311,Y,9/15/23,
+PAMAID.312,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.461,35.564,43.396,PAMAID.312,Y,9/15/23,
+PAMAID.313,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.761,33.52,41.744,PAMAID.313,Y,9/15/23,
+PAMAID.314,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.779,35.669,44.412,PAMAID.314,Y,9/15/23,
+PAMAID.315,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.426,37.185,46.024,PAMAID.315,Y,9/15/23,
+PAMAID.316,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.718,33.209,41.021,PAMAID.316,Y,9/15/23,
+PAMAID.317,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.276,37.141,45.898,PAMAID.317,Y,9/15/23,
+PAMAID.318,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.604,40.779,50.483,PAMAID.318,Y,9/15/23,
+PAMAID.319,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.037,36.507,45.401,PAMAID.319,Y,9/15/23,
+PAMAID.320,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,10.344,38.972,48.857,PAMAID.320,Y,9/15/23,
+PAMAID.321,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.525,34.243,42.352,PAMAID.321,Y,9/15/23,
+PAMAID.322,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.287,36.992,46.18,PAMAID.322,Y,9/15/23,
+PAMAID.323,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.612,32.859,40.777,PAMAID.323,Y,9/15/23,
+PAMAID.324,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.75,37.592,45.606,PAMAID.324,Y,9/15/23,
+PAMAID.325,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,10.67,41.184,51.23,PAMAID.325,Y,9/15/23,
+PAMAID.326,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.67,38.967,48.438,PAMAID.326,Y,9/15/23,Fewer eggs than usual
+PAMAID.327,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.164,39.283,48.657,PAMAID.327,Y,9/15/23,
+PAMAID.328,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,11.025,43.676,53.841,PAMAID.328,Y,9/15/23,
+PAMAID.329,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,10.037,39.44,49.468,PAMAID.329,Y,9/15/23,
+PAMAID.330,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.176,36.683,45.68,PAMAID.330,Y,9/15/23,
+PAMAID.331,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.95,38.176,46.427,PAMAID.331,Y,9/15/23,
+PAMAID.332,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.586,29.765,37.023,PAMAID.332,Y,9/15/23,
+PAMAID.333,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.362,33.424,40.6,PAMAID.333,Y,9/15/23,
+PAMAID.334,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.256,37.686,46.641,PAMAID.334,Y,9/15/23,
+PAMAID.335,Samish Bay,Taylor Pathway,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.902,34.519,42.668,PAMAID.335,Y,9/15/23,
+PAMAID.336,Samish Bay,Samish River Marsh,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,Yes,7.864,NA,NA,PAMAID.336,Y,9/18/23,"Missing tip of Rostrum, body squished flat, cracked carapace, abdomenal segment damage= cannot be staged well for measuring TL"
+PAMAID.337,Samish Bay,Samish River Marsh,5/18/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,11.944,44.783,55.003,PAMAID.337,Y,9/18/23,
+PAMAID.338,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.479,37.517,46.26,PAMAID.338,Y,9/18/23,
+PAMAID.339,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,7.847,31.654,39.137,PAMAID.339,Y,9/18/23,
+PAMAID.340,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.427,37.824,45.493,PAMAID.340,Y,9/18/23,Holding very few eggs (still very yellow yolk)
+PAMAID.341,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes ,No,No,9.807,39.458,48.793,PAMAID.341,Y,9/18/23,
+PAMAID.342,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.344,40.503,50.692,PAMAID.342,Y,9/18/23,
+PAMAID.343,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,7.659,30.927,38.012,PAMAID.343,Y,9/18/23,
+PAMAID.344,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.27,35.975,44.062,PAMAID.344,Y,9/18/23,
+PAMAID.345,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.394,33.466,41.566,PAMAID.345,Y,9/18/23,
+PAMAID.346,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.924,37.853,46.772,PAMAID.346,Y,9/18/23,
+PAMAID.347,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.39,36.005,44.855,PAMAID.347,Y,9/18/23,
+PAMAID.348,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.854,35.984,43.607,PAMAID.348,Y,9/18/23,
+PAMAID.349,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.218,36.653,44.513,PAMAID.349,Y,9/18/23,
+PAMAID.350,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.451,34.475,41.72,PAMAID.350,Y,9/18/23,
+PAMAID.351,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.515,37.214,46.287,PAMAID.351,Y,9/18/23,
+PAMAID.352,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.305,NA,NA,PAMAID.352,Y,9/18/23,Missing Telson tip
+PAMAID.353,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,7.842,31.053,38.396,PAMAID.353,Y,9/18/23,
+PAMAID.354,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.658,38.794,48.183,PAMAID.354,Y,9/18/23,
+PAMAID.355,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.994,36.553,45.775,PAMAID.355,Y,9/18/23,
+PAMAID.356,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.704,34.562,44.006,PAMAID.356,Y,9/18/23,
+PAMAID.357,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.877,39.093,47.72,PAMAID.357,Y,9/18/23,
+PAMAID.358,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.041,36.176,44.139,PAMAID.358,Y,9/18/23,
+PAMAID.359,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.545,36.92,45.134,PAMAID.359,Y,9/18/23,
+PAMAID.360,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,10.861,42.252,52.968,PAMAID.360,Y,9/18/23,
+PAMAID.361,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.289,37.02,45.547,PAMAID.361,Y,9/18/23,
+PAMAID.362,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.119,35.479,44.298,PAMAID.362,Y,9/18/23,
+PAMAID.363,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,11.067,42.16,52.516,PAMAID.363,Y,9/18/23,
+PAMAID.364,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.168,36.056,44.975,PAMAID.364,Y,9/18/23,
+PAMAID.365,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,10.157,39.52,48.983,PAMAID.365,Y,9/18/23,
+PAMAID.366,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.163,36.921,45.185,PAMAID.366,Y,9/18/23,
+PAMAID.367,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.784,34.98,42.518,PAMAID.367,Y,9/18/23,
+PAMAID.368,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.366,36.347,45.906,PAMAID.368,Y,9/19/23,
+PAMAID.369,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No ,NA,No,8.023,32.351,40.397,PAMAID.369,Y,9/19/23,
+PAMAID.370,Samish Bay,Pigeon Point,5/19/22,5,2022,Opportunistic,PAMA,Female,No,NA,Yes,8.269,32.85,NA,PAMAID.370,Y,9/19/23,"Missing  tip of rostrum, crack from orbital along carapce on right side body"
+PAMAID.371,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.998,35.133,43.282,PAMAID.371,Y,9/19/23,
+PAMAID.372,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No ,No,10.037,39.936,48.345,PAMAID.372,Y,9/19/23,
+PAMAID.373,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.187,37.715,47.414,PAMAID.373,Y,9/19/23,
+PAMAID.374,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.408,36.166,45.529,PAMAID.374,Y,9/19/23,
+PAMAID.375,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.175,36.132,45.332,PAMAID.375,Y,9/19/23,
+PAMAID.376,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.193,39.652,49.642,PAMAID.376,Y,9/19/23,
+PAMAID.377,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No ,No,10.047,39.484,48.562,PAMAID.377,Y,9/19/23,
+PAMAID.378,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.764,37.364,46.531,PAMAID.378,Y,9/19/23,
+PAMAID.379,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.664,37.178,46.642,PAMAID.379,Y,9/19/23,
+PAMAID.380,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.741,39.008,47.736,PAMAID.380,Y,9/19/23,
+PAMAID.381,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No ,No,9.962,39.396,49.482,PAMAID.381,Y,9/19/23,
+PAMAID.382,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No ,NA,No,8.497,32.705,40,PAMAID.382,Y,9/19/23,
+PAMAID.383,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.275,31.618,39.411,PAMAID.383,Y,9/19/23,
+PAMAID.384,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No ,No,10.372,39.945,48.813,PAMAID.384,Y,9/19/23,
+PAMAID.385,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.558,34.056,42.804,PAMAID.385,Y,9/19/23,
+PAMAID.386,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.052,34.305,42.686,PAMAID.386,Y,9/19/23,
+PAMAID.387,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.83,35.173,43.914,PAMAID.387,Y,9/19/23,Holding Very few eggs 
+PAMAID.388,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.366,36.758,46.295,PAMAID.388,Y,9/19/23,Holding Very few eggs 
+PAMAID.389,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.929,34.453,NA,PAMAID.389,Y,9/19/23,Short Rostrum but doesnt seem broken *but may be broken so didn't measure (possible outlier)
+PAMAID.390,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.148,36.318,44.533,PAMAID.390,Y,9/19/23,
+PAMAID.391,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.512,36.576,45.792,PAMAID.391,Y,9/19/23,
+PAMAID.392,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.372,31.58,39.87,PAMAID.392,Y,9/19/23,
+PAMAID.393,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.414,32.92,40.84,PAMAID.393,Y,9/19/23,
+PAMAID.394,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.059,36.277,44.523,PAMAID.394,Y,9/19/23,
+PAMAID.395,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.785,38.629,47.514,PAMAID.395,Y,9/19/23,"Tip of rostrum missing__* tip of rostrum does not actually appear to be missing in photo, so I measured"
+PAMAID.396,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.025,35.97,44.807,PAMAID.396,Y,9/19/23,
+PAMAID.397,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No ,NA,No,9.313,36.476,46.042,PAMAID.397,Y,9/19/23,
+PAMAID.398,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.659,33.694,41.101,PAMAID.398,Y,9/19/23,
+PAMAID.399,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.043,31.252,39.022,PAMAID.399,Y,9/19/23,
+PAMAID.400,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.956,39.128,47.727,PAMAID.400,Y,9/19/23,
+PAMAID.401,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.416,36.227,45.365,PAMAID.401,Y,9/19/23,
+PAMAID.402,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.261,36.263,44.652,PAMAID.402,Y,9/19/23,
+PAMAID.403,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.114,35.714,NA,PAMAID.403,Y,9/19/23,"*Broken rostrum, noticed in photo when measuring"
+PAMAID.404,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.333,36.306,45.675,PAMAID.404,Y,9/19/23,
+PAMAID.405,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.621,36.441,45.545,PAMAID.405,Y,9/20/23,
+PAMAID.406,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,10.362,40.533,50.06,PAMAID.406,Y,9/20/23,
+PAMAID.407,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.772,35.444,44.1,PAMAID.407,Y,9/20/23,
+PAMAID.408,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes ,No,No,12.623,48.589,60.135,PAMAID.408,Y,9/20/23,
+PAMAID.409,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.909,35.105,43.119,PAMAID.409,Y,9/20/23,
+PAMAID.410,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.387,32.39,39.972,PAMAID.410,Y,9/20/23,
+PAMAID.411,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.481,33.84,41.653,PAMAID.411,Y,9/20/23,
+PAMAID.412,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.092,NA,NA,PAMAID.412,Y,9/20/23,Missing tip of telson
+PAMAID.413,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.563,36.731,45.94,PAMAID.413,Y,9/20/23,
+PAMAID.414,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.894,37.694,47.315,PAMAID.414,Y,9/20/23,*This was the outlier value we observed when plotting data in R; entered CL into both CL and TL columnn. NOW revised/remeasured
+PAMAID.415,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.256,37.405,47.064,PAMAID.415,Y,9/20/23,
+PAMAID.416,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.407,36.571,44.903,PAMAID.416,Y,9/20/23,
+PAMAID.417,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.146,31.496,38.857,PAMAID.417,Y,9/20/23,
+PAMAID.418,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.622,37.256,46.074,PAMAID.418,Y,9/20/23,
+PAMAID.419,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.345,35.677,44.597,PAMAID.419,Y,9/20/23,
+PAMAID.420,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.888,35.515,43.733,PAMAID.420,Y,9/20/23,
+PAMAID.421,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes ,No,No,9.103,36.584,45.303,PAMAID.421,Y,9/20/23,
+PAMAID.422,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.198,36.018,45.366,PAMAID.422,Y,9/20/23,
+PAMAID.423,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.477,36.838,45.916,PAMAID.423,Y,9/20/23,
+PAMAID.424,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.067,34.228,42.678,PAMAID.424,Y,9/20/23,
+PAMAID.425,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.238,35.383,43.484,PAMAID.425,Y,9/20/23,
+PAMAID.426,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.639,34.059,41.847,PAMAID.426,Y,9/20/23,
+PAMAID.427,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.881,38.274,48.081,PAMAID.427,Y,9/20/23,
+PAMAID.428,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.202,32.81,40.967,PAMAID.428,Y,9/20/23,
+PAMAID.429,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.529,38.684,48.574,PAMAID.429,Y,9/20/23,
+PAMAID.430,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,8.585,34.257,42.37,PAMAID.430,Y,9/20/23,
+PAMAID.431,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.55,38.056,46.639,PAMAID.431,Y,9/21/23,
+PAMAID.432,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.492,32.659,40.717,PAMAID.432,Y,9/21/23,
+PAMAID.433,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,10.006,39.544,48.96,PAMAID.433,Y,9/21/23,
+PAMAID.434,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.698,38.289,47.493,PAMAID.434,Y,9/21/23,
+PAMAID.435,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,Yes,No,No,9.755,38.197,46.999,PAMAID.435,Y,9/21/23,
+PAMAID.436,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.583,33.861,42.562,PAMAID.436,Y,9/21/23,
+PAMAID.437,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.651,33.402,41.566,PAMAID.437,Y,9/21/23,
+PAMAID.438,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,8.063,31.795,40.03,PAMAID.438,Y,9/21/23,
+PAMAID.439,Samish Bay,Taylor,22-May,5,2022,Opportunistic,PAMA,Female,No,NA,No,9.102,34.085,42.457,PAMAID.439,Y,9/21/23,
+PAMAID.440,Drayton ,367,8/22/20,8,2020,Crab Team ,PAMA,Female,Yes,Yes,No,11.45,44.29,54.532,PAMAID.440,Y,9/21/23,Eggs very degraded/mushy as thawing 
+PAMAID.441,Drayton ,367,8/22/20,8,2020,Crab Team ,PAMA,Female,Yes,Yes,No,9.938,39.829,48.904,PAMAID.441,Y,9/21/23,
+PAMAID.442,Drayton ,367,8/22/20,8,2020,Crab Team ,PAMA,Female,Yes,No,No,10.356,NA,NA,PAMAID.442,Y,9/21/23,*Broken telson obs when measuring 
+PAMAID.443,Drayton ,367,8/22/20,8,2020,Crab Team ,PAMA,Female,Yes,Yes,No,10.898,41.497,52.159,PAMAID.443,Y,9/21/23,"Eggs very degraded but are advanced w/pink bodies+eyes, mishapen/curling abdomen segments, loose connection between carapace and abdomen"
+PAMAID.444,Drayton ,367,8/22/20,8,2020,Crab Team ,PAMA,Female,Yes,Yes,No,9.996,39.562,47.836,PAMAID.444,Y,9/21/23,
+PAMAID.445,Drayton ,367,8/22/20,8,2020,Crab Team ,PAMA,Female,No,NA,Maybe,9.527,37.73,46.727,PAMAID.445,Y,9/21/23,
+PAMAID.446,Drayton ,367,8/22/20,8,2020,Crab Team ,PAMA,Female,No,NA,No,9.252,37.482,45.256,PAMAID.446,Y,9/21/23,
+PAMAID.447,Drayton ,367,8/22/20,8,2020,Crab Team ,PAMA,Female,Yes,Yes,No,9.829,39.519,48.486,PAMAID.447,Y,9/21/23,Holding very few eggs ~12 (highly developed pink bodies)
+PAMAID.448,Drayton ,367,9/18/20,9,2020,Crab Team ,PAMA,Female,No,NA,No,11.771,45.346,56.234,PAMAID.448,Y,9/21/23,
+PAMAID.449,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.242,38.449,47.146,PAMAID.449,Y,9/25/23,
+PAMAID.450,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,No,No,9.912,39.015,48.308,PAMAID.450,Y,9/25/23,
+PAMAID.451,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.397,34.09,42.056,PAMAID.451,Y,9/25/23,
+PAMAID.452,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Male,NA,NA,No,5.788,26.595,32.937,PAMAID.452,Y,9/25/23,
+PAMAID.453,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.218,39.416,48.705,PAMAID.453,Y,9/25/23,
+PAMAID.454,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,No,No,9.285,36.482,45.637,PAMAID.454,Y,9/25/23,
+PAMAID.455,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,No,NA,No,8.233,33.942,41.573,PAMAID.455,Y,9/26/23,
+PAMAID.456,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Male,NA,NA,No,6.575,29.951,37.599,PAMAID.456,Y,9/26/23,Missing one uropod
+PAMAID.457,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,No,No,10.327,41.146,47.723,PAMAID.457,Y,9/26/23,
+PAMAID.458,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,No,No,10.092,39.122,47.822,PAMAID.458,Y,9/26/23,
+PAMAID.459,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.53,37.994,45.732,PAMAID.459,Y,9/26/23,
+PAMAID.460,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.43,38.968,47.472,PAMAID.460,Y,9/26/23,
+PAMAID.461,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.842,36.806,44.906,PAMAID.461,Y,9/26/23,
+PAMAID.462,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,No,Maybe,9.319,37.269,45.798,PAMAID.462,Y,9/26/23,
+PAMAID.463,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,No,No,9.128,38.005,47.029,PAMAID.463,Y,9/26/23,
+PAMAID.464,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Male,NA,NA,No,7.75,35.12,43.464,PAMAID.464,Y,9/26/23,
+PAMAID.465,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.543,41.725,50.746,PAMAID.465,Y,9/26/23,
+PAMAID.466,Drayton ,367,6/28/21,6,2021,Crab Team ,PAMA,Male,NA,NA,No,5.891,27.467,34.121,PAMAID.466,Y,9/26/23,
+PAMAID.467,Drayton ,367,7/15/21,7,2021,Crab Team ,PAMA,Female,No,NA,No,5.681,21.067,26.163,PAMAID.467,Y,9/26/23,
+PAMAID.468,Drayton ,367,7/15/21,7,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.922,40.072,49.612,PAMAID.468,Y,9/26/23,
+PAMAID.469,Drayton ,367,7/15/21,7,2021,Crab Team ,PAMA,Male,No,NA,No,4.215,18.025,22.347,PAMAID.469,Y,9/26/23,
+PAMAID.470,Drayton ,367,7/15/21,7,2021,Crab Team ,PAMA,Male,No,NA,No,3.891,16.596,20.358,PAMAID.470,Y,9/26/23,
+PAMAID.471,Drayton ,367,7/15/21,7,2021,Crab Team ,PAMA,Male,No,NA,No,6.247,28.587,35.526,PAMAID.471,Y,9/26/23,
+PAMAID.472,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,11.055,41.433,50.726,PAMAID.472,Y,9/26/23,
+PAMAID.473,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.238,32.151,39.973,PAMAID.473,Y,9/26/23,
+PAMAID.474,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.025,42.779,52.592,PAMAID.474,Y,9/26/23,
+PAMAID.475,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.869,37.106,45.345,PAMAID.475,Y,9/26/23,
+PAMAID.476,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.168,27.452,33.955,PAMAID.476,Y,9/26/23,
+PAMAID.477,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.978,30.661,38.053,PAMAID.477,Y,9/26/23,
+PAMAID.478,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.207,40.538,NA,PAMAID.478,Y,9/26/23,Missing Rostrum 
+PAMAID.479,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.008,30.32,36.851,PAMAID.479,Y,9/26/23,
+PAMAID.480,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.447,28.42,34.739,PAMAID.480,Y,9/26/23,
+PAMAID.481,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.855,38.678,46.513,PAMAID.481,Y,9/26/23,
+PAMAID.482,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.362,NA,NA,PAMAID.482,Y,9/26/23,Missing Telson
+PAMAID.483,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,11.011,40.369,49.692,PAMAID.483,Y,9/26/23,
+PAMAID.484,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.744,41.39,50.941,PAMAID.484,Y,9/26/23,
+PAMAID.485,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.255,31.124,38.323,PAMAID.485,Y,9/26/23,
+PAMAID.486,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.994,29.923,36.947,PAMAID.486,Y,9/26/23,
+PAMAID.487,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.616,40.718,50.414,PAMAID.487,Y,9/26/23,
+PAMAID.488,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.671,36.551,45.339,PAMAID.488,Y,9/26/23,
+PAMAID.489,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.163,30.543,38.375,PAMAID.489,Y,9/26/23,
+PAMAID.490,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.927,41.386,51.204,PAMAID.490,Y,9/26/23,
+PAMAID.491,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.624,28.781,35.256,PAMAID.491,Y,9/26/23,
+PAMAID.492,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.101,26.766,NA,PAMAID.492,Y,9/26/23,Missing Rostrum Tip
+PAMAID.493,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.941,29.03,35.877,PAMAID.493,Y,9/26/23,
+PAMAID.494,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.727,40.805,50.179,PAMAID.494,Y,9/26/23,
+PAMAID.495,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.97,30.546,38.043,PAMAID.495,Y,9/26/23,
+PAMAID.496,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.403,31.322,39.005,PAMAID.496,Y,9/26/23,
+PAMAID.497,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.584,33.55,NA,PAMAID.497,Y,9/26/23,Missing Rostrum 
+PAMAID.498,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.5,43.383,53.025,PAMAID.498,Y,9/26/23,
+PAMAID.499,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.743,29.585,36.49,PAMAID.499,Y,9/26/23,
+PAMAID.500,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Male,NA,NA,No,5.215,18.689,23.503,PAMAID.500,Y,9/26/23,Missing tip of telson_*Doesn't actually appear to be missing any telson in image so I measured it
+PAMAID.501,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.62,40.471,50.033,PAMAID.501,Y,9/26/23,
+PAMAID.502,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.351,29.194,35.923,PAMAID.502,Y,9/26/23,
+PAMAID.503,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.211,27.913,34.167,PAMAID.503,Y,9/26/23,
+PAMAID.504,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.108,42.84,53.124,PAMAID.504,Y,9/26/23,
+PAMAID.505,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.645,29.762,36.789,PAMAID.505,Y,9/26/23,
+PAMAID.506,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.179,31.479,39.342,PAMAID.506,Y,9/26/23,
+PAMAID.507,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.676,42.285,51.73,PAMAID.507,Y,9/26/23,
+PAMAID.508,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.05,31.182,39.025,PAMAID.508,Y,9/26/23,
+PAMAID.509,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.57,28.835,35.555,PAMAID.509,Y,9/26/23,
+PAMAID.510,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.511,NA,NA,PAMAID.510,Y,9/26/23,Missing very tip of telson
+PAMAID.511,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.781,29.14,NA,PAMAID.511,Y,9/26/23,"*Broken rostrum, noticed when measuring "
+PAMAID.512,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.3,28.908,35.002,PAMAID.512,Y,9/26/23,
+PAMAID.513,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Male,NA,NA,No,7.258,28.126,34.443,PAMAID.513,Y,9/26/23,
+PAMAID.514,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.63,28.961,36.416,PAMAID.514,Y,9/26/23,
+PAMAID.515,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.506,41.286,50.714,PAMAID.515,Y,9/26/23,
+PAMAID.516,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.989,30.22,37.064,PAMAID.516,Y,9/26/23,
+PAMAID.517,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.133,27.872,34.724,PAMAID.517,Y,9/26/23,
+PAMAID.518,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,11.166,43.721,54.561,PAMAID.518,Y,9/26/23,
+PAMAID.519,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,Maybe,10.154,40.251,49.054,PAMAID.519,Y,9/26/23,
+PAMAID.520,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.735,38.298,47.28,PAMAID.520,Y,9/26/23,
+PAMAID.521,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.383,39.133,48.312,PAMAID.521,Y,10/4/23,
+PAMAID.522,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.632,40.833,50.58,PAMAID.522,Y,10/4/23,
+PAMAID.523,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.653,30.024,37.487,PAMAID.523,Y,10/4/23,
+PAMAID.524,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.347,28.446,35.223,PAMAID.524,Y,10/4/23,
+PAMAID.525,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.089,29.819,36.123,PAMAID.525,Y,10/4/23,
+PAMAID.526,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.529,30.202,37.594,PAMAID.526,Y,10/4/23,r
+PAMAID.527,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.165,43.705,53.842,PAMAID.527,Y,10/4/23,
+PAMAID.528,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.062,37.981,47.187,PAMAID.528,Y,10/4/23,
+PAMAID.529,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.226,NA,NA,PAMAID.529,Y,10/4/23,tip of telson broken
+PAMAID.530,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.62,40.23,48.517,PAMAID.530,Y,10/4/23,
+PAMAID.531,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.335,28.447,35.066,PAMAID.531,Y,10/4/23,
+PAMAID.532,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.186,42.714,52.717,PAMAID.532,Y,10/4/23,
+PAMAID.533,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.552,39.642,49.425,PAMAID.533,Y,10/4/23,
+PAMAID.534,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.694,29.796,36.795,PAMAID.534,Y,10/4/23,
+PAMAID.535,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.81,30.193,37.85,PAMAID.535,Y,10/4/23,
+PAMAID.536,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.014,38.926,47.149,PAMAID.536,Y,10/10/23,
+PAMAID.537,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.441,29.197,35.721,PAMAID.537,Y,10/10/23,
+PAMAID.538,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.701,29.462,36.175,PAMAID.538,Y,10/10/23,
+PAMAID.539,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.439,32.145,39.619,PAMAID.539,Y,10/10/23,
+PAMAID.540,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.133,27.671,33.714,PAMAID.540,Y,10/10/23,
+PAMAID.541,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.095,27.901,NA,PAMAID.541,Y,10/10/23,"Missing Rostrum, broken face"
+PAMAID.542,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.572,29.072,36.092,PAMAID.542,Y,10/10/23,
+PAMAID.543,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.084,NA,NA,PAMAID.543,Y,10/10/23,Missing of telson missing
+PAMAID.544,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.561,41.834,51.216,PAMAID.544,Y,10/10/23,
+PAMAID.545,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.22,27.911,34.211,PAMAID.545,Y,10/10/23,
+PAMAID.546,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.963,30.491,37.756,PAMAID.546,Y,10/10/23,
+PAMAID.547,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.686,37.941,46.923,PAMAID.547,Y,10/10/23,
+PAMAID.548,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.461,29.057,36.756,PAMAID.548,Y,10/10/23,
+PAMAID.549,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.373,28.609,34.636,PAMAID.549,Y,10/10/23,
+PAMAID.550,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.483,33.448,40.556,PAMAID.550,Y,10/16/23,
+PAMAID.551,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.235,28.192,34.637,PAMAID.551,Y,10/16/23,
+PAMAID.552,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.54,28.813,35.376,PAMAID.552,Y,10/16/23,eggs:red eyes
+PAMAID.553,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.124,27.126,33.582,PAMAID.553,Y,10/16/23,
+PAMAID.554,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.081,27.145,33.658,PAMAID.554,Y,10/16/23,
+PAMAID.555,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.076,38.801,48.047,PAMAID.555,Y,10/16/23,
+PAMAID.556,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.199,NA,NA,PAMAID.556,Y,10/16/23,Tip of telson missing
+PAMAID.557,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,6.923,26.694,33.259,PAMAID.557,Y,10/16/23,
+PAMAID.558,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.371,40.227,49.763,PAMAID.558,Y,10/16/23,
+PAMAID.559,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.899,30.495,37.876,PAMAID.559,Y,10/16/23,
+PAMAID.560,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.798,41.41,50.558,PAMAID.560,Y,10/16/23,
+PAMAID.561,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.385,28.624,35.009,PAMAID.561,Y,10/16/23,
+PAMAID.562,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,6.963,27.214,33.723,PAMAID.562,Y,10/16/23,
+PAMAID.563,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.613,29.367,36.163,PAMAID.563,Y,10/16/23,
+PAMAID.564,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.8,42.094,52.259,PAMAID.564,Y,10/20/23,"Eggs at different develop.stages; both no eyes, some have distinct olive-colored outer layer with inner yellow yolk, others whole egg is yellow yolky"
+PAMAID.565,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.833,34.351,42.916,PAMAID.565,Y,10/20/23,
+PAMAID.566,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.075,27.76,34.884,PAMAID.566,Y,10/20/23,
+PAMAID.567,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.841,31.048,38.336,PAMAID.567,Y,10/20/23,
+PAMAID.568,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.946,31.326,38.452,PAMAID.568,Y,10/20/23,Eggs at diff dev. stages; all no eyes
+PAMAID.569,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.525,37.615,45.698,PAMAID.569,Y,10/20/23,Eggs at diff dev. stages; all no eyes
+PAMAID.570,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.064,40.249,NA,PAMAID.570,Y,10/20/23,Missing part of rostrum 
+PAMAID.571,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.827,29.375,36.185,PAMAID.571,Y,10/20/23,
+PAMAID.572,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.335,39.588,48.294,PAMAID.572,Y,10/20/23,
+PAMAID.573,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,6.584,26.353,32.937,PAMAID.573,Y,10/20/23,
+PAMAID.574,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.236,39.787,48.88,PAMAID.574,Y,10/20/23,
+PAMAID.575,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.795,29.147,36.19,PAMAID.575,Y,10/20/23,
+PAMAID.576,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.7,29.924,36.942,PAMAID.576,Y,10/20/23,
+PAMAID.577,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.98,30.87,38.318,PAMAID.577,Y,10/20/23,
+PAMAID.578,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.646,41.156,51.294,PAMAID.578,Y,10/20/23,
+PAMAID.579,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.526,29.39,36.386,PAMAID.579,Y,10/20/23,
+PAMAID.580,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.106,27.876,34.467,PAMAID.580,Y,10/20/23,
+PAMAID.581,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.001,38.8,48.244,PAMAID.581,Y,10/20/23,
+PAMAID.582,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.694,40.703,49.447,PAMAID.582,Y,10/20/23,
+PAMAID.583,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,11.248,43.406,53.074,PAMAID.583,Y,10/20/23,
+PAMAID.585,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.14,31.813,38.844,PAMAID.585,Y,10/20/23,
+PAMAID.586,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.772,30.496,38.006,PAMAID.586,Y,10/20/23,
+PAMAID.587,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.715,30.191,37.399,PAMAID.587,Y,10/20/23,
+PAMAID.588,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.126,40.444,49.402,PAMAID.588,Y,10/20/23,
+PAMAID.589,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.804,42.379,52.041,PAMAID.589,Y,10/20/23,
+PAMAID.590,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.32,41.009,49.721,PAMAID.590,Y,10/20/23,
+PAMAID.591,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.74,29.989,37.134,PAMAID.591,Y,10/20/23,
+PAMAID.592,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.326,41.593,51.051,PAMAID.592,Y,10/20/23,
+PAMAID.593,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.495,29.997,36.928,PAMAID.593,Y,10/20/23,
+PAMAID.594,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.035,39.148,48.121,PAMAID.594,Y,10/20/23,
+PAMAID.595,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.785,37.492,46.743,PAMAID.595,Y,10/20/23,
+PAMAID.596,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.552,28.606,35.306,PAMAID.596,Y,10/23/23,
+PAMAID.597,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,No,No,No,7.531,29.434,36.926,PAMAID.597,Y,10/23/23,
+PAMAID.598,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.207,39.16,NA,PAMAID.598,Y,10/23/23,"Mixed development brood (all no eyes), tip of rostrum missing"
+PAMAID.599,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.531,28.196,34.88,PAMAID.599,Y,10/23/23,Mixed development brood (all no eyes) 
+PAMAID.600,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,11.957,45.219,56.344,PAMAID.600,Y,10/23/23,
+PAMAID.601,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.679,29.38,36.262,PAMAID.601,Y,10/23/23,
+PAMAID.602,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.96,45.062,55.774,PAMAID.602,Y,10/23/23,Mixed development brood (all no eyes)
+PAMAID.603,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.781,41.393,51.723,PAMAID.603,Y,10/23/23,
+PAMAID.604,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.56,29.399,35.864,PAMAID.604,Y,10/23/23,
+PAMAID.605,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.107,30.167,37,PAMAID.605,Y,10/23/23,
+PAMAID.606,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.192,28.396,35.077,PAMAID.606,Y,10/23/23,
+PAMAID.607,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.282,28.564,35.665,PAMAID.607,Y,10/23/23,
+PAMAID.608,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.322,32.086,39.579,PAMAID.608,Y,10/23/23,
+PAMAID.609,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.249,31.219,39.056,PAMAID.609,Y,10/23/23,
+PAMAID.610,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.7,29.067,35.58,PAMAID.610,Y,10/23/23,
+PAMAID.611,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.885,30.145,37.386,PAMAID.611,Y,10/23/23,
+PAMAID.612,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.525,28.404,35.083,PAMAID.612,Y,10/23/23,
+PAMAID.613,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.023,30.799,37.881,PAMAID.613,Y,10/23/23,
+PAMAID.614,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.792,29.473,36.117,PAMAID.614,Y,10/23/23,
+PAMAID.615,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.865,30.917,37.835,PAMAID.615,Y,10/23/23,
+PAMAID.616,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.142,27.959,34.56,PAMAID.616,Y,10/23/23,
+PAMAID.617,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,6.728,NA,NA,PAMAID.617,Y,10/23/23,Broken end of telson (observed 5/1/24 when measuring)
+PAMAID.618,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.205,26.344,32.491,PAMAID.618,Y,10/23/23,
+PAMAID.619,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.086,27.068,33.356,PAMAID.619,Y,10/23/23,
+PAMAID.620,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,6.822,27.17,33.074,PAMAID.620,Y,10/23/23,
+PAMAID.621,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,No,No,No,5.987,22.401,28.426,PAMAID.621,Y,10/23/23,
+PAMAID.622,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.179,29.366,36.208,PAMAID.622,Y,10/23/23,
+PAMAID.623,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.398,28.158,34.47,PAMAID.623,Y,10/23/23,
+PAMAID.624,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.384,28.84,NA,PAMAID.624,Y,10/23/23,Missing rostrum
+PAMAID.625,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.981,30.418,37.49,PAMAID.625,Y,10/23/23,
+PAMAID.626,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.723,38.976,48.809,PAMAID.626,Y,11/6/23,
+PAMAID.627,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.041,30.403,37.568,PAMAID.627,Y,11/6/23,
+PAMAID.628,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.795,30.211,37.775,PAMAID.628,Y,11/6/23,
+PAMAID.629,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.557,28.782,35.566,PAMAID.629,Y,11/6/23,
+PAMAID.630,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.796,41.702,NA,PAMAID.630,Y,11/6/23,Missing rostrum tip
+PAMAID.631,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.888,39.562,48.534,PAMAID.631,Y,11/6/23,
+PAMAID.632,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.839,30.611,37.772,PAMAID.632,Y,11/6/23,
+PAMAID.633,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.616,29.649,36.956,PAMAID.633,Y,11/6/23,
+PAMAID.634,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.341,41.244,50.931,PAMAID.634,Y,11/6/23,
+PAMAID.635,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.667,40.613,50.065,PAMAID.635,Y,11/6/23,
+PAMAID.636,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.525,28.794,35.291,PAMAID.636,Y,11/6/23,
+PAMAID.637,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.047,NA,NA,PAMAID.637,Y,11/18/23,Missing Telson tip
+PAMAID.638,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.7,37.505,46.262,PAMAID.638,Y,11/18/23,
+PAMAID.639,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.131,38.421,47.558,PAMAID.639,Y,11/18/23,
+PAMAID.640,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.315,38.622,48.187,PAMAID.640,Y,11/18/23,
+PAMAID.641,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.496,41.792,52.251,PAMAID.641,Y,11/18/23,
+PAMAID.642,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,No,No,No,7.701,28.573,35.621,PAMAID.642,Y,11/18/23,
+PAMAID.643,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.77,29.638,36.727,PAMAID.643,Y,11/18/23,
+PAMAID.644,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.517,41.645,51.354,PAMAID.644,Y,11/18/23,
+PAMAID.645,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.156,39.226,48.583,PAMAID.645,Y,11/18/23,
+PAMAID.646,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.37,37.098,45.93,PAMAID.646,Y,11/18/23,
+PAMAID.647,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,No,No,No,7.306,27.87,34.589,PAMAID.647,Y,11/18/23,
+PAMAID.648,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.7,37.793,45.942,PAMAID.648,Y,11/18/23,
+PAMAID.649,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,9.849,38.294,NA,PAMAID.649,Y,11/18/23,Missing rostrum
+PAMAID.650,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.025,30.525,38.033,PAMAID.650,Y,11/18/23,
+PAMAID.651,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.753,40.722,49.791,PAMAID.651,Y,11/18/23,
+PAMAID.652,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.279,38.562,47.889,PAMAID.652,Y,11/18/23,loose tail connection
+PAMAID.653,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.014,37.621,46.427,PAMAID.653,Y,11/18/23,
+PAMAID.654,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.998,41.367,52.172,PAMAID.654,Y,11/18/23,
+PAMAID.655,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.088,27.026,32.961,PAMAID.655,Y,11/18/23,
+PAMAID.656,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,9.22,34.596,42.431,PAMAID.656,Y,11/18/23,
+PAMAID.657,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.63,42.109,51.166,PAMAID.657,Y,11/18/23,"very tip rostrum missing? *still measured, not certain if rost damage or not"
+PAMAID.658,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,10.636,39.859,49.739,PAMAID.658,Y,11/18/23,
+PAMAID.659,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.545,29.114,36.37,PAMAID.659,Y,11/18/23,
+PAMAID.660,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.556,33.684,41.529,PAMAID.660,Y,11/18/23,
+PAMAID.661,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,7.98,30.283,38.121,PAMAID.661,Y,11/18/23,
+PAMAID.662,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,6.817,26.103,NA,PAMAID.662,Y,11/18/23,missing rostrum
+PAMAID.663,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.798,29.68,36.574,PAMAID.663,Y,11/18/23,
+PAMAID.664,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,6.708,25.624,31.791,PAMAID.664,Y,11/18/23,
+PAMAID.665,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.834,29.49,37.007,PAMAID.665,Y,11/18/23,
+PAMAID.666,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.846,28.914,36.055,PAMAID.666,Y,11/18/23,
+PAMAID.668,Port Susan Bay,516,9/21/21,9,2021,Crab Team ,PAMA,Female,Yes,Yes,No,8.281,33.421,41.531,PAMAID.668,Y,11/20/23,
+PAMAID.669,Port Susan Bay,516,9/21/21,9,2021,Crab Team ,PAMA,Male,NA,NA,No,4.479,19.8,24.685,PAMAID.669,Y,11/20/23,
+PAMAID.670,Port Susan Bay,516,9/21/21,9,2021,Crab Team ,PAMA,Male,NA,NA,No,4.289,19.823,NA,PAMAID.670,Y,11/20/23,Missing rostrum tip
+PAMAID.671,Port Susan Bay,516,9/21/21,9,2021,Crab Team ,PAMA,Female,Yes,No,No,8.214,32.872,40.591,PAMAID.671,Y,11/20/23,
+PAMAID.672,Port Susan Bay,516,9/21/21,9,2021,Crab Team ,PAMA,Female,Yes,No,No,7.968,32.219,39.767,PAMAID.672,Y,11/20/23,
+PAMAID.673,Port Susan Bay,516,9/21/21,9,2021,Crab Team ,PAMA,Male,NA,NA,No,4.412,20.804,25.713,PAMAID.673,Y,11/20/23,
+PAMAID.674,Drayton ,367,9/21/21,9,2021,Crab Team ,PAMA,Female,No,NA,No,8.305,32.311,40.126,PAMAID.674,Y,11/20/23,
+PAMAID.675,Drayton ,367,9/21/21,9,2021,Crab Team ,PAMA,Female,No,NA,No,6.823,26.98,33.116,PAMAID.675,Y,11/20/23,
+PAMAID.676,Drayton ,367,4/17/22,4,2022,Crab Team ,PAMA,Female,No,NA,No,7.695,32.031,40.167,PAMAID.676,Y,11/20/23,
+PAMAID.677,Drayton ,367,4/17/22,4,2022,Crab Team ,PAMA,Female,No,NA,No,7.611,31.507,NA,PAMAID.677,Y,11/20/23,Missing rostrum 
+PAMAID.678,Drayton ,367,4/17/22,4,2022,Crab Team ,PAMA,Female,No,NA,No,8.374,33.856,41.307,PAMAID.678,Y,11/20/23,
+PAMAID.679,Drayton ,367,4/17/22,4,2022,Crab Team ,PAMA,Female,No,NA,No,7.918,31.017,37.694,PAMAID.679,Y,11/20/23,
+PAMAID.680,Drayton ,367,5/27/22,5,2022,Crab Team ,PAMA,Female,No,NA,No,8.157,32.537,39.899,PAMAID.680,Y,11/20/23,
+PAMAID.681,Drayton ,367,5/27/22,5,2022,Crab Team ,PAMA,Female,No,NA,No,7.758,30.9,38.025,PAMAID.681,Y,11/20/23,
+PAMAID.682,Drayton ,367,5/27/22,5,2022,Crab Team ,PAMA,Female,No,NA,No,8.543,34.258,42.356,PAMAID.682,Y,11/20/23,
+PAMAID.683,Drayton ,367,5/27/22,5,2022,Crab Team ,PAMA,Female,Yes,No,No,8.677,35.335,44.123,PAMAID.683,Y,11/20/23,
+PAMAID.684,Fidalgo Bay,386,5/3/22,5,2022,Crab Team ,PAMA,Female,No,NA,No,8.763,35.063,43.668,PAMAID.684,Y,12/2/23,
+PAMAID.685,Drayton ,367,6/30/22,6,2022,Crab Team ,PAMA,Female,Yes,Yes,No,7.799,31.437,38.599,PAMAID.685,Y,12/2/23,black eyes on eggs
+PAMAID.686,Drayton ,367,6/30/22,6,2022,Crab Team ,PAMA,Female,Yes,Yes,No,7.934,32.547,39.672,PAMAID.686,Y,12/2/23,black eyes on eggs
+PAMAID.687,Drayton ,367,6/30/22,6,2022,Crab Team ,PAMA,Female,Yes,Yes,No,10.215,40.81,49.99,PAMAID.687,Y,12/2/23,black eyes on eggs
+PAMAID.688,Bellingham Bay,362,7/7/22,7,2022,Crab Team ,PAMA,Female,Yes,Yes,No,7.847,32.035,39.27,PAMAID.688,Y,12/2/23,red eyes on eggs
+PAMAID.689,Bellingham Bay,362,7/7/22,7,2022,Crab Team ,PAMA,Female,Yes,Yes,No,8.553,32.871,NA,PAMAID.689,Y,12/2/23,"Missing rostrum, black eyes on eggs "
+PAMAID.690,Fidalgo Bay,386,7/15/22,7,2022,Crab Team ,PAMA,Male,NA,NA,No,6.345,29.374,37.037,PAMAID.690,Y,12/2/23,
+PAMAID.691,Drayton ,367,7/18/22,7,2022,Crab Team ,PAMA,Female,Yes,No,No,10.325,40.943,50.993,PAMAID.691,Y,12/2/23,
+PAMAID.692,Drayton ,367,7/18/22,7,2022,Crab Team ,PAMA,Female,Yes,No,No,9.395,38.185,47.891,PAMAID.692,Y,12/2/23,
+PAMAID.693,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,10.888,41.887,NA,PAMAID.693,Y,12/2/23,Broken rostrum 
+PAMAID.694,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,8.564,33.612,41.827,PAMAID.694,Y,12/2/23,
+PAMAID.695,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.754,39.238,48.98,PAMAID.695,Y,12/2/23,
+PAMAID.696,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.469,36.525,44.476,PAMAID.696,Y,12/2/23,
+PAMAID.697,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,10.488,38.87,48.59,PAMAID.697,Y,12/2/23,
+PAMAID.698,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,8.637,33.57,NA,PAMAID.698,Y,12/2/23,"Missing tip of rostrum (very tip,tiny bit)"
+PAMAID.699,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,10.219,39.979,48.986,PAMAID.699,Y,12/2/23,red eyes on eggs
+PAMAID.700,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.56,37.79,45.5,PAMAID.700,Y,12/2/23,
+PAMAID.701,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.468,36.837,45.251,PAMAID.701,Y,12/2/23,
+PAMAID.702,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,8.52,33.923,41.775,PAMAID.702,Y,12/2/23,
+PAMAID.703,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,10.196,38.846,48.026,PAMAID.703,Y,12/2/23,
+PAMAID.704,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.249,38.192,46.772,PAMAID.704,Y,12/2/23,
+PAMAID.705,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.682,39.963,NA,PAMAID.705,Y,12/2/23,Missing rostrum
+PAMAID.706,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.73,38.022,46.405,PAMAID.706,Y,12/2/23,
+PAMAID.707,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.136,38.109,46.706,PAMAID.707,Y,12/2/23,*photo angle off may have skewed cl
+PAMAID.708,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.244,37.072,45.021,PAMAID.708,Y,12/2/23,
+PAMAID.709,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.554,37.817,46.656,PAMAID.709,Y,12/2/23,
+PAMAID.710,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.055,36.174,44.746,PAMAID.710,Y,12/2/23,
+PAMAID.711,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.668,38.161,46.487,PAMAID.711,Y,12/2/23,
+PAMAID.712,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.625,38.487,47.734,PAMAID.712,Y,12/2/23,
+PAMAID.713,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,11.268,45.339,56.264,PAMAID.713,Y,12/2/23,Big lady no eggs
+PAMAID.714,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.236,36.243,44.07,PAMAID.714,Y,12/2/23,
+PAMAID.715,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,8.989,35.872,44.046,PAMAID.715,Y,12/2/23,
+PAMAID.716,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.871,38.476,47.425,PAMAID.716,Y,12/2/23,
+PAMAID.717,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.445,37.228,45.565,PAMAID.717,Y,12/2/23,
+PAMAID.718,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,10.36,40.67,50.587,PAMAID.718,Y,12/2/23,
+PAMAID.719,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,10.801,41.692,51.148,PAMAID.719,Y,12/2/23,
+PAMAID.720,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,8.988,NA,NA,PAMAID.720,Y,12/2/23,Tip of telson missing -
+PAMAID.721,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.005,36.449,44.149,PAMAID.721,Y,12/2/23,
+PAMAID.722,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,10.077,38.479,47.777,PAMAID.722,Y,12/2/23,
+PAMAID.723,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,10.718,41.529,50.79,PAMAID.723,Y,12/2/23,
+PAMAID.724,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,8.639,34.31,42.625,PAMAID.724,Y,12/2/23,
+PAMAID.725,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.659,38.194,46.455,PAMAID.725,Y,12/2/23,
+PAMAID.726,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,10.129,38.994,47.717,PAMAID.726,Y,12/2/23,
+PAMAID.727,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,11.143,44.009,53.722,PAMAID.727,Y,12/2/23,
+PAMAID.728,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.872,37.726,45.643,PAMAID.728,Y,12/2/23,
+PAMAID.729,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,10.368,41.197,45.686,PAMAID.729,Y,12/2/23,"Very stuby rostrum, not broken"
+PAMAID.730,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,11.04,42.221,52.116,PAMAID.730,Y,12/2/23,
+PAMAID.731,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.761,38.423,46.724,PAMAID.731,Y,12/2/23,
+PAMAID.732,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,10.823,43.166,53.709,PAMAID.732,Y,12/10/23,
+PAMAID.733,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,10.097,41.036,50.394,PAMAID.733,Y,12/10/23,
+PAMAID.734,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.385,37.923,44.651,PAMAID.734,Y,12/10/23,
+PAMAID.735,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.291,37.606,46.721,PAMAID.735,Y,12/10/23,
+PAMAID.736,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.7,38.801,47.839,PAMAID.736,Y,12/10/23,
+PAMAID.737,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,10.009,39.227,47.935,PAMAID.737,Y,12/10/23,
+PAMAID.738,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.002,34.605,42.964,PAMAID.738,Y,12/10/23,
+PAMAID.739,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.769,38.414,47.48,PAMAID.739,Y,12/10/23,
+PAMAID.740,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.91,39.025,48.977,PAMAID.740,Y,12/10/23,
+PAMAID.741,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.67,37.939,46.594,PAMAID.741,Y,12/10/23,
+PAMAID.742,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.217,35.763,44.078,PAMAID.742,Y,12/10/23,
+PAMAID.743,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,9.155,35.646,43.215,PAMAID.743,Y,12/10/23,
+PAMAID.744,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,10.168,39.636,49.457,PAMAID.744,Y,12/10/23,
+PAMAID.745,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,10.308,40.674,49.866,PAMAID.745,Y,12/10/23,
+PAMAID.746,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,11.366,43.788,53.317,PAMAID.746,Y,12/10/23,
+PAMAID.747,Drayton ,367,8/2/22,8,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.677,38.313,47.57,PAMAID.747,Y,12/10/23,
+PAMAID.748,Dyes Inlet,133,8/28/22,8,2022,Crab Team ,PAMA,Female,Yes,No,No,8.698,30.508,38.662,PAMAID.748,Y,12/10/23,
+PAMAID.749,Dyes Inlet,133,9/6/22,9,2022,Crab Team ,PAMA,Female,No,NA,No,7.211,27.387,34.402,PAMAID.749,Y,12/10/23,Squished;2D shrimp cannot uncurl more
+PAMAID.750,Fidalgo Bay,386,9/9/22,9,2022,Crab Team ,PAMA,Female,Yes,No,No,7.076,27.746,34.097,PAMAID.750,Y,12/10/23,Squished;2D shrimp 
+PAMAID.751,Bellingham Bay,362,9/13/22,9,2022,Crab Team ,PAMA,Female,Yes,Yes,No,9.979,40.826,50.299,PAMAID.751,Y,12/10/23,
+PAMAID.752,Bellingham Bay,362,9/13/22,9,2022,Crab Team ,PAMA,Female,Yes,No,No,11.266,43.035,53.559,PAMAID.752,Y,12/10/23,
+PAMAID.753,Bellingham Bay,362,9/13/22,9,2022,Crab Team ,PAMA,Female,No,NA,No,6.212,25.214,31.688,PAMAID.753,Y,12/10/23,
