@@ -29,7 +29,7 @@ PAMAID.028,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.561,29.592,3
 PAMAID.029,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,7.189,32.731,41.213,PAMAID.029,Y,2/17/23,
 PAMAID.030,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,4.218,19.218,23.686,PAMAID.030,Y,2/17/23,
 PAMAID.031,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,Yes,6.811,29.584,37.074,PAMAID.031,Y,2/17/23,
-PAMAID.032,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,7.24,26.872,32.498,PAMAID.032,Y,2/17/23,
+PAMAID.032,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,7.24,26.872,NA,PAMAID.032,Y,2/17/23,"Rostrum appears to be damage in photo, TL originally measured at 32.498, but likely underestimate so removed"
 PAMAID.033,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.709,29.952,37.425,PAMAID.033,Y,2/17/23,
 PAMAID.034,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Male,NA,NA,No,6.535,29.324,36.434,PAMAID.034,Y,2/17/23,
 PAMAID.035,Drayton,367,9/16/20,9,2020,Synoptic,PAMA,Female,Yes,Yes,Maybe,10.451,41.3,50.959,PAMAID.035,Y,2/17/23,
@@ -492,7 +492,7 @@ PAMAID.496,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.403,31.
 PAMAID.497,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,8.584,33.55,NA,PAMAID.497,Y,9/26/23,Missing Rostrum 
 PAMAID.498,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,11.5,43.383,53.025,PAMAID.498,Y,9/26/23,
 PAMAID.499,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.743,29.585,36.49,PAMAID.499,Y,9/26/23,
-PAMAID.500,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Male,NA,NA,No,5.215,18.689,23.503,PAMAID.500,Y,9/26/23,Missing tip of telson_*Doesn't actually appear to be missing any telson in image so I measured it
+PAMAID.500,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Male,NA,NA,No,5.215,NA,NA,PAMAID.500,Y,9/26/23,"Missing tip of telson_*Doesn't actually appear to be missing any telson in image so JP measured it, further review suggests telson is artificially short so TL and GVTL removed, (TL: 23.503, GVTL: 18.689)"
 PAMAID.501,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,Yes,No,10.62,40.471,50.033,PAMAID.501,Y,9/26/23,
 PAMAID.502,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.351,29.194,35.923,PAMAID.502,Y,9/26/23,
 PAMAID.503,Drayton ,367,8/9/21,8,2021,Crab Team ,PAMA,Female,Yes,No,No,7.211,27.913,34.167,PAMAID.503,Y,9/26/23,
