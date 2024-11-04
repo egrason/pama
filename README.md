@@ -4,5 +4,9 @@ This repo is focused on research related to *Palaemon macrodactylus* (abbreviate
 
 ## Contents
 - Data: 
+--PAMA Specimen Measurements.csv
+
 - Scripts:
+--PAMA_Allometry.R: 
+
 - Outputs:
