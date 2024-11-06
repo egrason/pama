@@ -1,9 +1,33 @@
-###### Script for plotting and analyzing PAMA Size comparisons.
+############################################################ 
+###### Script for plotting and analyzing PAMA demographics
+############################################################ 
 
-###Libraries
+###Libraries & Data
 library(scales) #Alpha
+library(lubridate) #month, day, year functions
+library(beanplot)
+library(plyr)
+library(ggplot2)
 
-pama.size <- read.csv("~/Documents/GitHub/pama/PAMA Specimen Measurements.csv", header = T)
+pama.size <- read.csv("~/Documents/GitHub/pama/Data/PAMA Specimen Measurements.csv", header = T)
+
+pama.size$Sex <- as.factor(pama.size$Sex)
+pama.size$Gravid <- as.factor(pama.size$Gravid)
+pama.size$EffortType <- as.factor(pama.size$EffortType)
+pama.size$WaterBody <- as.factor(pama.size$WaterBody)
+
+pama.size$CollectionDate <- as.POSIXlt(pama.size$CollectionDate, format = "%m/%d/%y")
+
+pama.size.crabteam <- pama.size[pama.size$EffortType == "Crab Team", ]
+pama.size.synoptic <- pama.size[pama.size$EffortType == "Synoptic", ]
+pama.size.opp <- pama.size[pama.size$EffortType == "Opportunistic", ]
+pama.trap.syn <- pama.size[pama.size$WaterBody != "Lummi Bay", ]
+pama.females <- pama.size[pama.size$Sex == "Female", ]
+
+
+############################################################ 
+###### Allometry
+
 
 ### CL v TL
 
@@ -48,3 +72,94 @@ text(20, 45, expression("Adj. r"^2*" = 0.99"))
 
 lm.tlgvtl <- lm(GVTL ~ TL*Sex, data = pama.size)
 summary(lm.tlgvtl)
+
+
+############################################################ 
+###### Size by capture date
+
+pama.size$CollectionDate <- as.POSIXlt(pama.size$CollectionDate, format = "%m/%d/%y")
+
+#All captures by date and size
+plot(pama.size$CollectionDate, pama.size$CL,
+     pch = c(1, 2)[as.factor(pama.size$Sex)],
+     col = alpha(c("red", "blue")[as.factor(pama.size$Sex)], 0.6),
+     xlab = "Collection Date",
+     ylab = "Carapace Length (mm)")
+
+#Crab Team only
+plot(pama.size.crabteam$CollectionDate, pama.size.crabteam$CL,
+     pch = c(1, 2)[as.factor(pama.size.crabteam$Sex)],
+     col = alpha(c("red", "blue")[as.factor(pama.size.crabteam$Sex)], 0.6),
+     xlab = "Collection Date",
+     ylab = "Carapace Length (mm)")
+
+pama.crabteam.21 <- pama.size.crabteam[pama.size.crabteam$Year == "2021", ]
+pama.crabteam.22 <- pama.size.crabteam[pama.size.crabteam$Year == "2022", ]
+pama.crabteam.2122 <- pama.size.crabteam[pama.size.crabteam$Year != "2020", ]
+
+
+par(las = 1, mfrow = c(2,1))
+plot(pama.crabteam.21$CollectionDate, pama.crabteam.21$CL,
+     pch = c(1, 2)[as.factor(pama.crabteam.21$Sex)],
+     col = alpha(c("red", "blue")[as.factor(pama.crabteam.21$Sex)], 0.6),
+     xlab = "Collection Date",
+     ylab = "Carapace Length (mm)"
+     )
+
+plot(pama.crabteam.22$CollectionDate, pama.crabteam.22$CL,
+     pch = c(1, 2)[as.factor(pama.crabteam.22$Sex)],
+     col = alpha(c("red", "blue")[as.factor(pama.crabteam.22$Sex)], 0.6),
+     xlab = "Collection Date",
+     ylab = "Carapace Length (mm)")
+
+plot(pama.crabteam.2122$CollectionDate, pama.crabteam.2122$CL,
+     pch = c(1, 2)[as.factor(pama.crabteam.2122$Sex)],
+     col = alpha(c("red", "blue")[as.factor(pama.crabteam.2122$Sex)], 0.6),
+     xlab = "Collection Date",
+     ylab = "Carapace Length (mm)")
+
+
+# All females ovigery and date of capture
+pama.females <- pama.size[pama.size$Sex == "Female", ]
+plot(pama.females$CollectionDate, pama.females$CL,
+     pch = c(2, 16)[as.factor(pama.size.crabteam$Gravid)],
+     col = alpha("red", 0.6),
+     ylab = "Collection Date",
+     xlab = "Carapace Length (mm)")
+
+#Seasonality of ovigery in crab team females
+crabteam.females <- pama.females[pama.females$EffortType == "Crab Team", ]
+
+female.ovigery <- as.data.frame(table(crabteam.females$Gravid, crabteam.females$Month))
+colnames(female.ovigery) <- c("Gravid", "Month", "Total")
+
+ggplot(female.ovigery, aes(x = Month, y = Total, fill = Gravid)) +
+  geom_col() +
+  scale_fill_grey() +
+  theme_bw()
+
+
+#Size of females based on ovigery (beanplot)
+beanplot(pama.females$CL ~ pama.females$Gravid, 
+         ll = 0.04, 
+         col = "gray",
+         main = "Gravid",
+         ylab = "Carapace Length (mm)")
+
+pama.gravid <- pama.females[pama.females$Gravid == "Yes", ]
+
+
+
+#Size of shrimp based on capture method
+par(las = 1)
+beanplot(CL ~ EffortType, data = pama.trap.syn, 
+         ll = 0.07, 
+         col = "gray",
+         ylab = "Carapace Length (mm)",
+         xaxt = "n")
+axis(1, at = c(1:3), 
+     labels = c("Crab Team\nTrapping", 
+                "Dispersed\nTrapping", 
+                "Synoptic\nDip Net"),
+     lwd = 0,
+     line = 1)
