@@ -10,6 +10,7 @@ library(RColorBrewer)
 library(viridis)
 library(gridExtra)
 library(forcats)
+library(RColorBrewer)
 
 ######################################################
 ####### Data
@@ -88,21 +89,25 @@ pama.cpue.plot <- pama.cpue.map[pama.cpue.map$SiteID %in% c("367",
                                                            "516",
                                                            "133"), ]
 
-ggplot(data = pama.cpue.plot, aes(x = Year, y = log(CPUE), group = as.factor(SiteID))) +
-  geom_line(aes(color = as.factor(SiteID))) +
-  geom_point(aes(color = as.factor(SiteID))) +
-  theme_bw()
+pama.cpue.plot$SiteID = with(pama.cpue.plot, reorder(SiteID, CPUE, mean, decreasing = T))
+pama.cpue.plot$Year <- as.factor(pama.cpue.plot$Year)
 
-pama.cpue.plot$SiteID <- as.factor(pama.cpue.plot$SiteID)
-p.annual.cpue <- pama.cpue.plot %>%
-  mutate(SiteID = fct_relevel(SiteID,
-                              "367", "362", "529",
-                              "528", "378", "386",
-                              "599", "516", "133")) %>%
-  ggplot(data = pama.cpue.plot, aes(x = Year, y = log(CPUE), group = SiteID)) +
+pdf("Catch by Year.pdf", height = 3, width = 6)
+ggplot(data = pama.cpue.plot, aes(x = Year, y = log(CPUE), group = SiteID)) +
   geom_line(aes(color = SiteID)) +
   geom_point(aes(color = SiteID)) +
-  theme_bw()
+  theme_bw() + 
+  guides(color = guide_legend(title = "Site")) +
+  scale_color_brewer(palette = "Paired", name = "Site", labels = c("Drayton Harbor", 
+                                                 "Post Point",
+                                                  "Sharpe's Corner", 
+                                                  "Davis Slough",
+                                                  "Best Lagoon", 
+                                                  "Alice Bay",
+                                                  "Iverson Spit", 
+                                                  "Shore Trail",
+                                                  "Big Indian Slough"))
+dev.off()
 
 ######################################################
 #######PAMA Seasonal Abundance Patterns
