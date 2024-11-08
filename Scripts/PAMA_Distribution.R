@@ -6,6 +6,9 @@
 #######Libraries
 library(plyr) #ddply
 library(lubridate) #month, day, year functions
+library(RColorBrewer)
+library(viridis)
+library(gridExtra)
 
 ######################################################
 ####### Data
@@ -127,10 +130,86 @@ pama.month.362 <- pama.month.CPUE[pama.month.CPUE$SiteID == "362", ]
 pama.month.378 <- pama.month.CPUE[pama.month.CPUE$SiteID == "378", ]
 pama.month.529 <- pama.month.CPUE[pama.month.CPUE$SiteID == "529", ]
 pama.month.528 <- pama.month.CPUE[pama.month.CPUE$SiteID == "528", ]
-pama.month.386 <- pama.month.CPUE[pama.month.CPUE$SiteID == "378", ]
+pama.month.386 <- pama.month.CPUE[pama.month.CPUE$SiteID == "386", ]
 pama.month.599 <- pama.month.CPUE[pama.month.CPUE$SiteID == "599", ]
 pama.month.516 <- pama.month.CPUE[pama.month.CPUE$SiteID == "516", ]
 pama.month.133 <- pama.month.CPUE[pama.month.CPUE$SiteID == "133", ]
 
+plot(pama.month.367$month, pama.month.367$CPUE,
+     type = "b",
+     pch = c(1:8)[as.factor(pama.month.367$Year)],
+     col = c(1:8)[as.factor(pama.month.367$Year)],
+     lty = 1, lwd = 1)
 
+p367 <- ggplot(data = pama.month.367, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("367 Drayton") +
+  scale_color_viridis_d()
 
+p362 <- ggplot(data = pama.month.362, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("362 Post Point") +
+  scale_color_viridis_d()
+
+p529 <- ggplot(data = pama.month.529, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("529 Alice Bay") +
+  scale_color_viridis_d()
+
+p528 <- ggplot(data = pama.month.528, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("528 Shore Trail") +
+  scale_color_viridis_d()
+
+p378 <- ggplot(data = pama.month.378, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("378 Big Indian") +
+  scale_color_viridis_d()
+
+p386 <- ggplot(data = pama.month.386, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("386 Sharpes") +
+  scale_color_viridis_d()
+
+p599 <- ggplot(data = pama.month.599, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("599 Davis") +
+  scale_color_viridis_d()
+
+p516 <- ggplot(data = pama.month.516, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("516 Iverson") +
+  scale_color_viridis_d()
+
+p133 <- ggplot(data = pama.month.133, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() + ggtitle("133 Best Lagoon") +
+  scale_color_viridis_d()
+
+grid.arrange(p367,
+             p362,
+             p529,
+             p528,
+             p378,
+             p386,
+             p599,
+             p516,
+             p133)
