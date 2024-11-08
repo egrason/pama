@@ -9,6 +9,7 @@ library(lubridate) #month, day, year functions
 library(RColorBrewer)
 library(viridis)
 library(gridExtra)
+library(forcats)
 
 ######################################################
 ####### Data
@@ -74,6 +75,34 @@ pama.cpue.map <- merge(pama.cpue, sites[, c("LatitudeDD", "LongitudeDD", "SiteID
                    by = "SiteID", all.x = TRUE)
 
 write.csv(pama.cpue.map, file = "Network PAMA CPUE.Map.csv")
+
+###Plot PAMA Annual CPUE by year
+pama.cpue.map$SiteID <- as.factor(pama.cpue.map$SiteID)
+pama.cpue.plot <- pama.cpue.map[pama.cpue.map$SiteID %in% c("367",
+                                                            "362", 
+                                                           "529",
+                                                           "528",
+                                                           "378",
+                                                           "386",
+                                                           "599",
+                                                           "516",
+                                                           "133"), ]
+
+ggplot(data = pama.cpue.plot, aes(x = Year, y = log(CPUE), group = as.factor(SiteID))) +
+  geom_line(aes(color = as.factor(SiteID))) +
+  geom_point(aes(color = as.factor(SiteID))) +
+  theme_bw()
+
+pama.cpue.plot$SiteID <- as.factor(pama.cpue.plot$SiteID)
+p.annual.cpue <- pama.cpue.plot %>%
+  mutate(SiteID = fct_relevel(SiteID,
+                              "367", "362", "529",
+                              "528", "378", "386",
+                              "599", "516", "133")) %>%
+  ggplot(data = pama.cpue.plot, aes(x = Year, y = log(CPUE), group = SiteID)) +
+  geom_line(aes(color = SiteID)) +
+  geom_point(aes(color = SiteID)) +
+  theme_bw()
 
 ######################################################
 #######PAMA Seasonal Abundance Patterns
