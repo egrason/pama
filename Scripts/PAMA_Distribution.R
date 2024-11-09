@@ -169,24 +169,74 @@ pama.month.599 <- pama.month.CPUE[pama.month.CPUE$SiteID == "599", ]
 pama.month.516 <- pama.month.CPUE[pama.month.CPUE$SiteID == "516", ]
 pama.month.133 <- pama.month.CPUE[pama.month.CPUE$SiteID == "133", ]
 
-plot(pama.month.367$month, pama.month.367$CPUE,
-     type = "b",
-     pch = c(1:8)[as.factor(pama.month.367$Year)],
-     col = c(1:8)[as.factor(pama.month.367$Year)],
-     lty = 1, lwd = 1)
+
+pama.month.cpue.site <- pama.month.CPUE[pama.month.CPUE$SiteID %in% c("367",
+                                                            "362", 
+                                                            "529",
+                                                            "528",
+                                                            "378",
+                                                            "386",
+                                                            "599",
+                                                            "516",
+                                                            "133"), ]
+
+new_labels <- c("367" = "Drayton Harbor",
+                "362" = "Post Point", 
+                "529" = "Alice Bay",
+                "528" = "Shore Trail",
+                "378" = "Big Indian Slough",
+                "386" = "Sharpe's Corner",
+                "599" = "Davis Slough",
+                "516" = "Iverson Spit",
+                "133" = "Best Lagoon")
+
+#new_labels2 <- c("4" = "April",
+#                "5" = "May", 
+#                "6" = "June",
+#                "7" = "July",
+#                "8" = "August",
+#                "9" = "September")
+
+pama.month.cpue.site$Site2 <- factor(pama.month.cpue.site$SiteID, 
+                                     levels = c("367",
+                                                "362", 
+                                                "529",
+                                                "528",
+                                                "378",
+                                                "386",
+                                                "599",
+                                                "516",
+                                                "133"))
+
+pdf("Site by Season.pdf", height = 6, width = 7)
+ggplot(data = pama.month.cpue.site, aes(x=month, y = CPUE, group = as.factor(Year))) +
+  geom_line(aes(color = as.factor(Year))) +
+  geom_point(aes(color = as.factor(Year))) +
+  scale_shape_manual(values = 1:8) +
+  theme_bw() +
+  facet_wrap(pama.month.cpue.site$Site2, 
+             scales = "free",
+             labeller = as_labeller(new_labels)) +
+  scale_color_viridis_d() +
+  xlab("Month") +
+  guides(color=guide_legend("Year"))
+dev.off()
+
+
+#######
 
 p367 <- ggplot(data = pama.month.367, aes(x=month, y = CPUE, group = as.factor(Year))) +
   geom_line(aes(color = as.factor(Year))) +
   geom_point(aes(color = as.factor(Year))) +
   scale_shape_manual(values = 1:8) +
-  theme_bw() + ggtitle("367 Drayton") +
+  theme_bw() + ggtitle("Drayton") +
   scale_color_viridis_d()
 
 p362 <- ggplot(data = pama.month.362, aes(x=month, y = CPUE, group = as.factor(Year))) +
   geom_line(aes(color = as.factor(Year))) +
   geom_point(aes(color = as.factor(Year))) +
   scale_shape_manual(values = 1:8) +
-  theme_bw() + ggtitle("362 Post Point") +
+  theme_bw() + ggtitle("Post Point") +
   scale_color_viridis_d()
 
 p529 <- ggplot(data = pama.month.529, aes(x=month, y = CPUE, group = as.factor(Year))) +
@@ -200,42 +250,42 @@ p528 <- ggplot(data = pama.month.528, aes(x=month, y = CPUE, group = as.factor(Y
   geom_line(aes(color = as.factor(Year))) +
   geom_point(aes(color = as.factor(Year))) +
   scale_shape_manual(values = 1:8) +
-  theme_bw() + ggtitle("528 Shore Trail") +
+  theme_bw() + ggtitle("Shore Trail") +
   scale_color_viridis_d()
 
 p378 <- ggplot(data = pama.month.378, aes(x=month, y = CPUE, group = as.factor(Year))) +
   geom_line(aes(color = as.factor(Year))) +
   geom_point(aes(color = as.factor(Year))) +
   scale_shape_manual(values = 1:8) +
-  theme_bw() + ggtitle("378 Big Indian") +
+  theme_bw() + ggtitle("Big Indian") +
   scale_color_viridis_d()
 
 p386 <- ggplot(data = pama.month.386, aes(x=month, y = CPUE, group = as.factor(Year))) +
   geom_line(aes(color = as.factor(Year))) +
   geom_point(aes(color = as.factor(Year))) +
   scale_shape_manual(values = 1:8) +
-  theme_bw() + ggtitle("386 Sharpes") +
+  theme_bw() + ggtitle("Sharpes") +
   scale_color_viridis_d()
 
 p599 <- ggplot(data = pama.month.599, aes(x=month, y = CPUE, group = as.factor(Year))) +
   geom_line(aes(color = as.factor(Year))) +
   geom_point(aes(color = as.factor(Year))) +
   scale_shape_manual(values = 1:8) +
-  theme_bw() + ggtitle("599 Davis") +
+  theme_bw() + ggtitle("Davis") +
   scale_color_viridis_d()
 
 p516 <- ggplot(data = pama.month.516, aes(x=month, y = CPUE, group = as.factor(Year))) +
   geom_line(aes(color = as.factor(Year))) +
   geom_point(aes(color = as.factor(Year))) +
   scale_shape_manual(values = 1:8) +
-  theme_bw() + ggtitle("516 Iverson") +
+  theme_bw() + ggtitle("Iverson") +
   scale_color_viridis_d()
 
 p133 <- ggplot(data = pama.month.133, aes(x=month, y = CPUE, group = as.factor(Year))) +
   geom_line(aes(color = as.factor(Year))) +
   geom_point(aes(color = as.factor(Year))) +
   scale_shape_manual(values = 1:8) +
-  theme_bw() + ggtitle("133 Best Lagoon") +
+  theme_bw() + ggtitle("Best Lagoon") +
   scale_color_viridis_d()
 
 grid.arrange(p367,
