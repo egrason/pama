@@ -59,6 +59,30 @@ text(4, 45, expression("Adj. r"^2*" = 0.97"))
 lm.clgvtl <- lm(GVTL ~ CL*Sex, data = pama.size)
 summary(lm.clgvtl)
 
+with(pama.size, 
+     plot(log(GVTL), log(CL),
+          pch = c(1, 2)[as.factor(Sex)],
+          col = alpha(c("red", "blue")[as.factor(Sex)], 0.6),
+          ylab = "Ln Vazquez Total Length (mm)",
+          xlab = "Ln Carapace Length (mm)"
+     ))
+
+pdf("VTL.TL.pdf", width = 5, height = 5)
+par(las = 1)
+with(pama.size, 
+     plot(log(GVTL), log(CL),
+          pch = c(1, 2, 1)[as.factor(SexFactor)],
+          col = alpha(c("red", "blue", "orange")[as.factor(SexFactor)], 0.6),
+          ylab = "Ln Vazquez Total Length (mm)",
+          xlab = "Ln Carapace Length (mm)"
+     ))
+leg.names <- c("Gravid Females", "Non-Gravid Females", "Males")
+legend("topleft", leg.names, col = c("red", "orange", "blue"), pch = c(1, 1, 2))
+dev.off()
+
+lm.clgvtl <- lm(log(GVTL) ~ (log(CL))*SexFactor, data = pama.size)
+summary(lm.clgvtl)
+
 ### TL v GVTL
 par(las = 1)
 with(pama.size, 
@@ -133,11 +157,13 @@ crabteam.females <- pama.females[pama.females$EffortType == "Crab Team", ]
 female.ovigery <- as.data.frame(table(crabteam.females$Gravid, crabteam.females$Month))
 colnames(female.ovigery) <- c("Gravid", "Month", "Total")
 
+pdf("Female Ovigery.pdf", width = 5, height = 4)
 ggplot(female.ovigery, aes(x = Month, y = Total, fill = Gravid)) +
   geom_col() +
   scale_fill_grey() +
-  theme_bw()
-
+  theme_bw() +
+  ylab("Number of Females Captured")
+dev.off()
 
 #Size of females based on ovigery (beanplot)
 beanplot(pama.females$CL ~ pama.females$Gravid, 
@@ -147,7 +173,6 @@ beanplot(pama.females$CL ~ pama.females$Gravid,
          ylab = "Carapace Length (mm)")
 
 pama.gravid <- pama.females[pama.females$Gravid == "Yes", ]
-
 
 
 #Size of shrimp based on capture method

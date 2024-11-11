@@ -4,6 +4,8 @@
 
 ###Libraries & Data
 library(lubridate) #month, day, year functions
+library(ggplot2)
+
 
 WDFW.Drayton.dat <- read.csv("~/Documents/GitHub/pama/Data/WDFW.PAMA 2021 -2022.csv", header = T)
 WDFW.Drayton.dat$Index <- as.factor(WDFW.Drayton.dat$Index)
@@ -70,3 +72,22 @@ plot(index.Sep$DistanceMouth, index.Sep$PAMA,
 text(1250, 35, "September")
 abline(v = c(500, 1000, 1500, 2000), lty = 2, col = "gray")
 mtext("Distance from Mouth (m)", line = -14)
+
+month.labels <- c("4" = "April",
+                  "5" = "May",
+                  "6" = "June",
+                  "7" = "July",
+                  "8" = "August",
+                  "9" = "September")
+
+pdf("Seasonal Index Sites.pdf", height = 9, width = 5)
+ggplot(data = index.dat, aes(x=DistanceMouth, y = PAMA, group = Site_Name)) +
+  geom_point(aes(color = Site_Name)) +
+  theme_bw() +
+  facet_wrap(index.dat$Month, 
+             nrow = 6,
+             labeller = as_labeller(month.labels)) +
+  xlab("Distance from Mouth (m)") +
+  ylab("Shrimp per Trap") +
+  guides(color=guide_legend("Site"))
+dev.off()
