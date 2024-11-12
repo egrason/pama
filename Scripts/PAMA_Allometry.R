@@ -8,6 +8,7 @@ library(lubridate) #month, day, year functions
 library(beanplot)
 library(plyr)
 library(ggplot2)
+library(gridExtra)
 
 pama.size <- read.csv("~/Documents/GitHub/pama/Data/PAMA Specimen Measurements.csv", header = T)
 
@@ -142,11 +143,13 @@ plot(pama.crabteam.2122$CollectionDate, pama.crabteam.2122$CL,
      xlab = "Collection Date",
      ylab = "Carapace Length (mm)")
 
+########################################
+#OVIGERY
 
 # All females ovigery and date of capture
 pama.females <- pama.size[pama.size$Sex == "Female", ]
 plot(pama.females$CollectionDate, pama.females$CL,
-     pch = c(2, 16)[as.factor(pama.size.crabteam$Gravid)],
+     pch = c(2, 16)[as.factor(pama.females$Gravid)],
      col = alpha("red", 0.6),
      ylab = "Collection Date",
      xlab = "Carapace Length (mm)")
@@ -157,12 +160,25 @@ crabteam.females <- pama.females[pama.females$EffortType == "Crab Team", ]
 female.ovigery <- as.data.frame(table(crabteam.females$Gravid, crabteam.females$Month))
 colnames(female.ovigery) <- c("Gravid", "Month", "Total")
 
-pdf("Female Ovigery.pdf", width = 5, height = 4)
-ggplot(female.ovigery, aes(x = Month, y = Total, fill = Gravid)) +
+pdf("Ovigery Eggs.pdf", width = 4, height = 6)
+p1 <- ggplot(female.ovigery, aes(x = Month, y = Total, fill = Gravid)) +
   geom_col() +
   scale_fill_grey() +
   theme_bw() +
   ylab("Number of Females Captured")
+
+pama.gravid <- pama.females[pama.females$Gravid == "Yes", ]
+pama.gravid <- pama.gravid[pama.gravid$Month != "5.5",]
+gravid.eggs <- as.data.frame(table(pama.gravid$EggsEyes, pama.gravid$Month))
+colnames(gravid.eggs) <- c("EggsEyes", "Month", "Total")
+
+p2 <- ggplot(gravid.eggs, aes(x = Month, y = Total, fill = EggsEyes)) +
+  geom_col(position = "fill") +
+  scale_fill_grey(name = "Eyes") +
+  theme_bw() +
+  ylab("Proportion of Gravid Females")
+
+grid.arrange(p1, p2, nrow = 2)
 dev.off()
 
 #Size of females based on ovigery (beanplot)
@@ -171,9 +187,6 @@ beanplot(pama.females$CL ~ pama.females$Gravid,
          col = "gray",
          main = "Gravid",
          ylab = "Carapace Length (mm)")
-
-pama.gravid <- pama.females[pama.females$Gravid == "Yes", ]
-
 
 #Size of shrimp based on capture method
 par(las = 1)

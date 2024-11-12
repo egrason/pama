@@ -205,3 +205,16 @@ ggplot(data = pama.month.cpue.site, aes(x=month, y = CPUE, group = as.factor(Yea
   guides(color=guide_legend("Year"))
 dev.off()
 
+###########
+#Histogram of Photos by Class
+
+Assignment <- seq(1:5)
+Records <- c(66, 13, 19, 8, 44)
+rating <- cbind(Confidence, Records)
+
+pdf("Photo ID Assignment.pdf", width = 2.5, height = 2.5)
+ggplot(data = rating, aes(x = Assignment, y = Records)) +
+  geom_col() +
+  theme_bw()
+dev.off()
+
