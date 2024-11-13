@@ -19,6 +19,8 @@ pama.size$WaterBody <- as.factor(pama.size$WaterBody)
 pama.size$Gear <- as.factor(pama.size$Gear)
 
 pama.size$CollectionDate <- as.POSIXlt(pama.size$CollectionDate, format = "%m/%d/%y")
+pama.size$CollectionDate <- as.POSIXct(pama.size$CollectionDate, format = "%m/%d/%y")
+
 
 pama.size.crabteam <- pama.size[pama.size$EffortType == "Crab Team", ]
 pama.size.synoptic <- pama.size[pama.size$EffortType == "Synoptic", ]
@@ -143,6 +145,30 @@ plot(pama.crabteam.2122$CollectionDate, pama.crabteam.2122$CL,
      col = alpha(c("red", "blue")[as.factor(pama.crabteam.2122$Sex)], 0.6),
      xlab = "Collection Date",
      ylab = "Carapace Length (mm)")
+
+###### Size by Water Body
+
+pama.size.crabteam$CollectionDate <- ymd(pama.size.crabteam$CollectionDate)
+ggplot(pama.size.crabteam, aes(x = CollectionDate, y = CL, group = Sex)) +
+  geom_point(aes(color = Sex)) +
+  scale_x_date(date_labels = "%Y-%M-%D") +
+  theme_bw() +
+  facet_wrap(pama.size.crabteam$WaterBody)
+
+pama.size.crabteam$SiteName <- as.factor(pama.size.crabteam$SiteName)
+pama.founder.size <- subset(pama.size.crabteam, SiteName == "BestLagoon" | SiteName == "IversonSpit" | SiteName == "SharpesCorner")
+ggplot(pama.size.crabteam, aes(x = CollectionDate, y = CL, group = Sex)) +
+  geom_point(aes(color = Sex)) +
+  theme_bw() +
+  facet_wrap(pama.size.crabteam$SiteName) +
+  xlab("Capture Date") +
+  ylab("Carapace Length (mm)")
+
+ggplot(pama.founder.size, aes(x = SiteName, y = CL, group = Sex)) +
+  geom_point(aes(color = Sex)) +
+  theme_bw() +
+  xlab("Site") +
+  ylab("Carapace Length (mm)")
 
 ########################################
 #OVIGERY
