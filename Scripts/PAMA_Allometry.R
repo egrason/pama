@@ -16,6 +16,7 @@ pama.size$Sex <- as.factor(pama.size$Sex)
 pama.size$Gravid <- as.factor(pama.size$Gravid)
 pama.size$EffortType <- as.factor(pama.size$EffortType)
 pama.size$WaterBody <- as.factor(pama.size$WaterBody)
+pama.size$Gear <- as.factor(pama.size$Gear)
 
 pama.size$CollectionDate <- as.POSIXlt(pama.size$CollectionDate, format = "%m/%d/%y")
 
@@ -188,7 +189,9 @@ beanplot(pama.females$CL ~ pama.females$Gravid,
          main = "Gravid",
          ylab = "Carapace Length (mm)")
 
-#Size of shrimp based on capture method
+################################
+#Gear Investigations 
+#Size of shrimp based on capture method (excluding seining)
 par(las = 1)
 beanplot(CL ~ EffortType, data = pama.trap.syn, 
          ll = 0.07, 
@@ -201,3 +204,5 @@ axis(1, at = c(1:3),
                 "Synoptic\nDip Net"),
      lwd = 0,
      line = 1)
+
+beanplot(CL ~ Gear, data = pama.size )
