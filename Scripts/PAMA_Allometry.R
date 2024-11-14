@@ -34,8 +34,8 @@ pama.females <- pama.size[pama.size$Sex == "Female", ]
 
 
 ### CL v TL
-
-par(las = 1)
+pdf("Allometry.pdf", height = 6, width = 3)
+par(las = 1, mfrow = c(3,1), mar = c(4, 4, 1, 1), oma = c(1, 1, 0, 0))
 with(pama.size, 
      plot(CL, TL,
           pch = c(1, 2)[as.factor(Sex)],
@@ -43,26 +43,49 @@ with(pama.size,
           ylab = "Total Length (mm)",
           xlab = "Carapace Length (mm)",
           ))
-text(4, 60, expression("Adj. r"^2*" = 0.97"))
-
-lm.cltl <- lm(TL~CL*Sex, data = pama.size)
-summary(lm.cltl)
+text(4.5, 60, expression("Adj. r"^2*" = 0.97"))
+allom.leg <- c("Female", "Male")
+legend("bottomright", allom.leg, pch = c(1,2), col = c("red", "blue"))
 
 ### CL v GVTL
 
-par(las = 1)
 with(pama.size, 
      plot(CL, GVTL,
           pch = c(1, 2)[as.factor(Sex)],
           col = alpha(c("red", "blue")[as.factor(Sex)], 0.6),
-          ylab = "Guadelupe-Vazquez Total Length (mm)",
+          ylab = "Vazquez Total Length (mm)",
           xlab = "Carapace Length (mm)"
      ))
-text(4, 45, expression("Adj. r"^2*" = 0.97"))
+text(4.5, 45, expression("Adj. r"^2*" = 0.97"))
 
+### TL v GVTL
+with(pama.size, 
+     plot(TL, GVTL,
+          pch = c(1, 2)[as.factor(Sex)],
+          col = alpha(c("red", "blue")[as.factor(Sex)], 0.6),
+          ylab = "Vazquez Total Length (mm)",
+          xlab = "Total Length (mm)"
+     ))
+text(22, 45, expression("Adj. r"^2*" = 0.99"))
+dev.off()
+
+
+############Models
+
+### CL v TL
+lm.cltl <- lm(TL~CL*Sex, data = pama.size)
+summary(lm.cltl)
+
+### CL v GVTL
 lm.clgvtl <- lm(GVTL ~ CL*Sex, data = pama.size)
 summary(lm.clgvtl)
 
+### TL v GVTL
+lm.tlgvtl <- lm(GVTL ~ TL*Sex, data = pama.size)
+summary(lm.tlgvtl)
+
+
+############Log Plot
 with(pama.size, 
      plot(log(GVTL), log(CL),
           pch = c(1, 2)[as.factor(Sex)],
@@ -70,6 +93,9 @@ with(pama.size,
           ylab = "Ln Vazquez Total Length (mm)",
           xlab = "Ln Carapace Length (mm)"
      ))
+
+lm.clgvtl <- lm(log(GVTL) ~ (log(CL))*SexFactor, data = pama.size)
+summary(lm.clgvtl)
 
 pdf("VTL.TL.pdf", width = 5, height = 5)
 par(las = 1)
@@ -83,23 +109,6 @@ with(pama.size,
 leg.names <- c("Gravid Females", "Non-Gravid Females", "Males")
 legend("topleft", leg.names, col = c("red", "orange", "blue"), pch = c(1, 1, 2))
 dev.off()
-
-lm.clgvtl <- lm(log(GVTL) ~ (log(CL))*SexFactor, data = pama.size)
-summary(lm.clgvtl)
-
-### TL v GVTL
-par(las = 1)
-with(pama.size, 
-     plot(TL, GVTL,
-          pch = c(1, 2)[as.factor(Sex)],
-          col = alpha(c("red", "blue")[as.factor(Sex)], 0.6),
-          ylab = "Guadelupe-Vazquez Total Length (mm)",
-          xlab = "Total Length (mm)"
-     ))
-text(20, 45, expression("Adj. r"^2*" = 0.99"))
-
-lm.tlgvtl <- lm(GVTL ~ TL*Sex, data = pama.size)
-summary(lm.tlgvtl)
 
 
 ############################################################ 
