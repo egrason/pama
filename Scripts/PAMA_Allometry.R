@@ -227,6 +227,7 @@ beanplot(pama.females$CL ~ pama.females$Gravid,
 ################################
 #Gear Investigations 
 #Size of shrimp based on capture method (excluding seining)
+pdf("Size by Capture Method.pdf", height = 5)
 par(las = 1)
 beanplot(CL ~ EffortType, data = pama.trap.syn, 
          ll = 0.07, 
@@ -239,5 +240,6 @@ axis(1, at = c(1:3),
                 "Synoptic\nDip Net"),
      lwd = 0,
      line = 1)
+dev.off()
 
 beanplot(CL ~ Gear, data = pama.size )
