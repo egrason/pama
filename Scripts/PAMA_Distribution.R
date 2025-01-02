@@ -200,7 +200,7 @@ ggplot(data = pama.month.cpue.site, aes(x=month, y = CPUE, group = as.factor(Yea
   facet_wrap(pama.month.cpue.site$Site2, 
              scales = "free",
              labeller = as_labeller(new_labels)) +
-  scale_color_viridis_d() +
+      scale_color_viridis_d() +
   xlab("Month") +
   guides(color=guide_legend("Year"))
 dev.off()
