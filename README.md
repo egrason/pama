@@ -8,7 +8,8 @@ This repo is focused on research related to *Palaemon macrodactylus* (abbreviate
 - Network PAMA CPUE
 - PAMA Specimen Measurements.csv: Individual specimen measurements for 753 PAMA photographed and measured by Jessica Pineda for Carapace Length (CL), Total Length (TL), and Vazquez total length (GVTL). Measurements in mm. Also sex, ovigery and egg condition.
 - Sites.csv: Crab Team network sites including coordinates, site features and year started.
-- Trapping.Data.11.7.24eg: Crab Team network trapping data current as of 11.7.24, including PAMA and other bycatch. 
+- Trapping.Data.11.7.24eg.csv: Crab Team network trapping data current as of 11.7.24, including PAMA and other bycatch.
+- PAMA.Month.CPUE.csv: For all sites within the Crab Team network, monthly sample effort (number of traps) and PAMA from start to 2024.
 - WDFW.PAMA 2021-2022: Trap effort data from WDFW-led removal trapping for Drayton Harbor and Samish Bay in 2021 and 2022.
 
 ### Scripts:
